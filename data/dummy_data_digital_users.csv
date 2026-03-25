@@ -1,0 +1,501 @@
+Nama Lokasi,Jam Login,Nama,Email,No Telepon,Tahun Lahir,Merk HP,Minat Digital,Tipe Lokasi,Usia,Generasi,Waktu Sesi,Skor Minat Digital,Status Aktif,Domain Email
+Jakarta Pusat,14:47,"Balidin Dongoran, S.T.",ivanmandala@example.net,0846-5012-4657,1971,Samsung,Rendah,Urban,55,Gen X,Siang,25,Kurang Aktif,example.net
+Denpasar,12:37,Murti Palastri,rahayusurya@example.org,0865-1520-1488,1975,Samsung,Rendah,Tourism,51,Gen X,Siang,25,Aktif,example.org
+Palembang,15:35,Bakiman Pratama,corneliasuartini@example.org,0836-9928-7873,1971,Vivo,Sedang,Suburban,55,Gen X,Siang,50,Kurang Aktif,example.org
+Jakarta Selatan,19:44,Sutan Nasrullah Yulianti,cprasetya@example.net,0865-6574-5552,1980,Infinix,Sedang,Urban,46,Gen X,Sore,50,Aktif,example.net
+Medan,12:05,Yessi Ardianto,zeldaanggraini@example.com,0859-2584-6881,1976,Vivo,Tinggi,Urban,50,Gen X,Siang,75,Aktif,example.com
+Jakarta Selatan,12:34,Eva Pratama,damu16@example.org,0826-7201-2291,1999,Apple,Tinggi,Urban,27,Gen Z,Siang,75,Aktif,example.org
+Palembang,19:36,Zulfa Situmorang,bakianto78@example.org,0835-2139-1750,1993,Apple,Tinggi,Suburban,33,Millennial,Sore,75,Aktif,example.org
+Jakarta Pusat,16:55,Cindy Puspasari,restu95@example.net,0823-7227-5554,1984,Realme,Sedang,Urban,42,Millennial,Sore,50,Kurang Aktif,example.net
+Bandung,11:22,Niyaga Hidayat,wijayantijaga@example.com,0837-5374-2169,1993,Samsung,Tinggi,Urban,33,Millennial,Siang,75,Aktif,example.com
+Surabaya,15:29,Sabar Pradipta,wibowokala@example.com,0859-5422-4598,1980,Realme,Tinggi,Urban,46,Gen X,Siang,75,Kurang Aktif,example.com
+Jakarta Selatan,11:52,"Rafid Utama, S.E.",nyana34@example.net,0815-6168-7572,1984,Samsung,Sedang,Urban,42,Millennial,Siang,50,Aktif,example.net
+Palembang,11:13,"Marsudi Hidayanto, M.Ak",farhunnisaprasasta@example.org,0894-9179-7482,1990,Vivo,Sangat Tinggi,Suburban,36,Millennial,Siang,95,Aktif,example.org
+Bandung,13:08,Kezia Saputra,yessisimbolon@example.org,0842-9830-5304,1986,Xiaomi,Tinggi,Urban,40,Millennial,Siang,75,Aktif,example.org
+Palembang,05:23,Rizki Firmansyah,rama41@example.org,0839-3266-9348,1995,Apple,Sedang,Suburban,31,Millennial,Pagi,50,Kurang Aktif,example.org
+Jakarta Pusat,06:40,dr. Gabriella Yolanda,pwidodo@example.com,0831-7916-2040,1979,Vivo,Sedang,Urban,47,Gen X,Pagi,50,Kurang Aktif,example.com
+Semarang,10:16,Eman Mandala,iriananasyiah@example.com,0881-1188-2876,2003,OPPO,Tinggi,Urban,23,Gen Z,Pagi,75,Kurang Aktif,example.com
+Yogyakarta,08:07,"Restu Aryani, M.Farm",otarihoran@example.org,0848-8123-3591,1991,Infinix,Sedang,Tourism,35,Millennial,Pagi,50,Kurang Aktif,example.org
+Yogyakarta,14:48,drg. Bakijan Hardiansyah,mangunsongratna@example.org,0833-9317-2743,2002,Xiaomi,Sangat Tinggi,Tourism,24,Gen Z,Siang,95,Kurang Aktif,example.org
+Denpasar,09:09,"Ir. Indra Riyanti, S.Pt",mwibowo@example.com,0858-3646-9837,1982,Infinix,Sangat Tinggi,Tourism,44,Millennial,Pagi,95,Kurang Aktif,example.com
+Jakarta Selatan,07:31,T. Kadir Anggriawan,zulaikagasti@example.com,0813-2832-6947,1990,Realme,Sangat Tinggi,Urban,36,Millennial,Pagi,95,Kurang Aktif,example.com
+Yogyakarta,18:03,"Ir. Ganep Kusumo, S.Pd",dmanullang@example.org,0841-2290-2403,1985,Apple,Tinggi,Tourism,41,Millennial,Sore,75,Kurang Aktif,example.org
+Denpasar,12:08,"Tantri Saptono, M.TI.",cinthiakurniawan@example.net,0895-8787-3705,1978,Realme,Sedang,Tourism,48,Gen X,Siang,50,Aktif,example.net
+Makassar,13:59,Zaenab Uyainah,gaduhwahyudin@example.org,0880-4295-6107,1983,Vivo,Sedang,Urban,43,Millennial,Siang,50,Aktif,example.org
+Medan,07:57,KH. Virman Nuraini,rahimahmarsudi@example.com,0877-8397-2982,1998,Samsung,Sedang,Urban,28,Gen Z,Pagi,50,Kurang Aktif,example.com
+Jakarta Selatan,10:14,Balidin Tarihoran,jatmiko03@example.net,0886-4608-1117,2005,Vivo,Rendah,Urban,21,Gen Z,Pagi,25,Kurang Aktif,example.net
+Surabaya,13:57,Bakiadi Laksita,nasyidahdwi@example.org,0815-6413-2160,1974,Xiaomi,Tinggi,Urban,52,Gen X,Siang,75,Aktif,example.org
+Semarang,08:34,"Jaswadi Pudjiastuti, S.E.",elvina96@example.org,0827-8744-4981,1983,Apple,Tinggi,Urban,43,Millennial,Pagi,75,Kurang Aktif,example.org
+Surabaya,14:06,KH. Omar Pangestu,raditya57@example.net,0895-8062-6804,1976,OPPO,Sedang,Urban,50,Gen X,Siang,50,Kurang Aktif,example.net
+Jakarta Selatan,10:03,Devi Prayoga,cagaksirait@example.org,0862-6559-2790,1976,Samsung,Sedang,Urban,50,Gen X,Pagi,50,Kurang Aktif,example.org
+Semarang,11:27,Drs. Ghaliyati Rahmawati,adityahidayanto@example.net,0834-5563-8579,1978,Infinix,Sedang,Urban,48,Gen X,Siang,50,Aktif,example.net
+Semarang,10:06,"Asmuni Pradana, S.Pt",sitompulcaket@example.net,0817-9856-1241,2005,Infinix,Sangat Tinggi,Urban,21,Gen Z,Pagi,95,Kurang Aktif,example.net
+Surabaya,20:26,Estiawan Winarsih,iprabowo@example.org,0873-8886-4502,1980,Realme,Sangat Tinggi,Urban,46,Gen X,Malam,95,Aktif,example.org
+Bandung,12:00,"Queen Permata, M.Kom.",warsitawasita@example.org,0860-5345-8454,1994,Vivo,Sedang,Urban,32,Millennial,Siang,50,Aktif,example.org
+Denpasar,08:09,Bakti Wahyuni,bthamrin@example.com,0835-5861-4566,2001,OPPO,Sangat Tinggi,Tourism,25,Gen Z,Pagi,95,Kurang Aktif,example.com
+Denpasar,16:47,Zelaya Habibi,halimreksa@example.net,0851-1936-1821,1973,OPPO,Tinggi,Tourism,53,Gen X,Sore,75,Kurang Aktif,example.net
+Denpasar,08:03,Wirda Kurniawan,harjonainggolan@example.net,0876-2312-4044,1980,Samsung,Rendah,Tourism,46,Gen X,Pagi,25,Kurang Aktif,example.net
+Surabaya,13:07,Dina Anggraini,kalimhariyah@example.org,0883-5033-1651,1995,Xiaomi,Tinggi,Urban,31,Millennial,Siang,75,Aktif,example.org
+Palembang,05:33,"Puti Maimunah Pudjiastuti, S.IP",yuliantigina@example.org,0851-5272-4346,2006,Xiaomi,Tinggi,Suburban,20,Gen Z,Pagi,75,Kurang Aktif,example.org
+Yogyakarta,07:08,Wira Prakasa,rahmatlaksita@example.com,0896-5915-8491,1995,Apple,Sedang,Tourism,31,Millennial,Pagi,50,Kurang Aktif,example.com
+Jakarta Pusat,13:29,Saka Wacana,marbunprabu@example.org,0890-2638-2200,1970,OPPO,Tinggi,Urban,56,Gen X,Siang,75,Aktif,example.org
+Bandung,15:56,Hani Hasanah,slamet87@example.org,0819-5002-7054,1992,Xiaomi,Sedang,Urban,34,Millennial,Siang,50,Kurang Aktif,example.org
+Denpasar,13:39,Ega Pratama,prastutihalima@example.org,0894-9666-1128,1989,OPPO,Tinggi,Tourism,37,Millennial,Siang,75,Aktif,example.org
+Jakarta Pusat,12:16,"Iriana Hakim, S.Gz",hmardhiyah@example.org,0825-2753-3546,1978,Vivo,Sedang,Urban,48,Gen X,Siang,50,Aktif,example.org
+Medan,11:43,Yosef Melani,nashiruddincahyo@example.net,0892-5325-9280,1983,Realme,Sedang,Urban,43,Millennial,Siang,50,Aktif,example.net
+Jakarta Selatan,07:40,Mursita Prakasa,klazuardi@example.org,0865-5533-1722,1975,Apple,Rendah,Urban,51,Gen X,Pagi,25,Kurang Aktif,example.org
+Yogyakarta,10:47,Ir. Azalea Safitri,andrianitira@example.net,0867-8007-1158,1980,Infinix,Rendah,Tourism,46,Gen X,Pagi,25,Kurang Aktif,example.net
+Bandung,11:02,Drs. Iriana Rajata,ulvasihotang@example.org,0858-3426-8041,2004,Xiaomi,Rendah,Urban,22,Gen Z,Siang,25,Aktif,example.org
+Jakarta Selatan,17:13,Lala Mustofa,vinsen51@example.org,0898-5088-2684,1992,OPPO,Sedang,Urban,34,Millennial,Sore,50,Kurang Aktif,example.org
+Makassar,14:59,Sarah Pratiwi,hidayantogawati@example.org,0841-3662-3900,1979,Samsung,Sangat Tinggi,Urban,47,Gen X,Siang,95,Kurang Aktif,example.org
+Medan,05:51,T. Cahyadi Tampubolon,prasastaokta@example.com,0896-5065-5371,1996,Vivo,Sedang,Urban,30,Millennial,Pagi,50,Kurang Aktif,example.com
+Makassar,14:54,Ismail Palastri,padma80@example.net,0871-4644-4269,1972,OPPO,Tinggi,Urban,54,Gen X,Siang,75,Kurang Aktif,example.net
+Yogyakarta,11:14,"Drs. Ifa Wijayanti, S.IP",karsanalatupono@example.org,0814-4164-7528,1984,Realme,Sedang,Tourism,42,Millennial,Siang,50,Aktif,example.org
+Yogyakarta,10:41,"Puspa Mangunsong, S.T.",nurul35@example.org,0876-7548-9785,1992,Samsung,Sedang,Tourism,34,Millennial,Pagi,50,Kurang Aktif,example.org
+Yogyakarta,15:37,"Mahesa Saptono, M.TI.",dramadan@example.org,0844-1626-2776,1981,Xiaomi,Tinggi,Tourism,45,Millennial,Siang,75,Kurang Aktif,example.org
+Medan,17:38,"Indra Saefullah, S.Gz",sitoruselon@example.net,0876-2894-7311,1997,Samsung,Sangat Tinggi,Urban,29,Gen Z,Sore,95,Kurang Aktif,example.net
+Jakarta Selatan,16:00,Elisa Handayani,apurwanti@example.org,0877-9821-4228,1997,Samsung,Sedang,Urban,29,Gen Z,Sore,50,Kurang Aktif,example.org
+Medan,09:42,Warsa Maryadi,uwaislalita@example.net,0826-5920-9308,1990,Xiaomi,Sedang,Urban,36,Millennial,Pagi,50,Kurang Aktif,example.net
+Makassar,11:35,Irfan Mahendra,samosiromar@example.org,0827-4143-7888,1988,Xiaomi,Tinggi,Urban,38,Millennial,Siang,75,Aktif,example.org
+Bandung,14:19,Fathonah Zulaika,unjanijailani@example.com,0862-9977-1006,2006,Samsung,Sedang,Urban,20,Gen Z,Siang,50,Kurang Aktif,example.com
+Palembang,16:29,"Dr. Tasdik Wasita, M.Ak",jasmanimarpaung@example.org,0867-8244-4501,1990,Apple,Tinggi,Suburban,36,Millennial,Sore,75,Kurang Aktif,example.org
+Bandung,11:18,Aisyah Nugroho,ridwan34@example.org,0876-6491-2530,1975,Apple,Tinggi,Urban,51,Gen X,Siang,75,Aktif,example.org
+Yogyakarta,12:51,"H. Balangga Wibowo, S.Gz",mprasetya@example.com,0836-3414-1400,1984,Huawei,Rendah,Tourism,42,Millennial,Siang,25,Aktif,example.com
+Palembang,08:29,Ina Pradana,asirwadawahyuni@example.org,0864-4185-7291,1974,Xiaomi,Sedang,Suburban,52,Gen X,Pagi,50,Kurang Aktif,example.org
+Jakarta Selatan,08:49,Julia Setiawan,setiawannardi@example.net,0865-4585-3881,1976,Vivo,Tinggi,Urban,50,Gen X,Pagi,75,Kurang Aktif,example.net
+Semarang,16:35,dr. Mustika Nasyiah,asman14@example.org,0842-2988-8478,1973,OPPO,Rendah,Urban,53,Gen X,Sore,25,Kurang Aktif,example.org
+Denpasar,18:38,Tgk. Ani Kurniawan,usitumorang@example.com,0851-8251-9270,2005,Realme,Sedang,Tourism,21,Gen Z,Sore,50,Kurang Aktif,example.com
+Semarang,12:47,Rachel Melani,winarnokeisha@example.org,0871-8373-5246,1980,Realme,Tinggi,Urban,46,Gen X,Siang,75,Aktif,example.org
+Yogyakarta,17:31,Aurora Fujiati,nurdiyantigenta@example.net,0891-4919-5499,2003,Apple,Sedang,Tourism,23,Gen Z,Sore,50,Kurang Aktif,example.net
+Surabaya,14:21,"Ulya Winarsih, S.Kom",setya15@example.net,0851-9849-2320,1987,Samsung,Rendah,Urban,39,Millennial,Siang,25,Kurang Aktif,example.net
+Bandung,10:04,Salimah Maheswara,cinthia46@example.com,0864-7678-6421,1983,Xiaomi,Tinggi,Urban,43,Millennial,Pagi,75,Kurang Aktif,example.com
+Surabaya,14:24,Tami Sihombing,harjoandriani@example.net,0885-1320-7232,1996,Infinix,Sedang,Urban,30,Millennial,Siang,50,Kurang Aktif,example.net
+Yogyakarta,19:54,Shania Natsir,rosman80@example.com,0864-9818-9947,1994,Realme,Tinggi,Tourism,32,Millennial,Sore,75,Aktif,example.com
+Semarang,12:17,Fathonah Astuti,wadi77@example.net,0866-8956-1475,1984,Vivo,Sedang,Urban,42,Millennial,Siang,50,Aktif,example.net
+Makassar,19:53,Kajen Kusmawati,tiarahutasoit@example.com,0870-3091-9751,1980,Xiaomi,Rendah,Urban,46,Gen X,Sore,25,Aktif,example.com
+Palembang,02:05,Ir. Mahesa Safitri,cengkir34@example.org,0893-8022-3223,1971,Samsung,Sangat Tinggi,Suburban,55,Gen X,Malam,95,Kurang Aktif,example.org
+Yogyakarta,16:20,"Sutan Cakrajiya Dongoran, S.Gz",wasissuryatmi@example.org,0838-8449-6355,1994,Realme,Sedang,Tourism,32,Millennial,Sore,50,Kurang Aktif,example.org
+Yogyakarta,13:16,Lidya Usamah,zamirawinarno@example.com,0821-8705-1317,1996,Samsung,Tinggi,Tourism,30,Millennial,Siang,75,Aktif,example.com
+Medan,11:41,Hesti Maulana,kurniawansoleh@example.org,0819-1659-1508,1984,Samsung,Sangat Tinggi,Urban,42,Millennial,Siang,95,Aktif,example.org
+Jakarta Selatan,13:15,Rangga Maryati,jhardiansyah@example.org,0827-8758-2874,1979,Samsung,Tinggi,Urban,47,Gen X,Siang,75,Aktif,example.org
+Yogyakarta,05:10,"Puti Mutia Mansur, M.M.",timbul98@example.com,0888-2876-3683,1993,Samsung,Sangat Tinggi,Tourism,33,Millennial,Pagi,95,Kurang Aktif,example.com
+Jakarta Selatan,12:36,"Drs. Melinda Manullang, M.Kom.",wrajata@example.org,0897-7149-7498,1989,Samsung,Sangat Tinggi,Urban,37,Millennial,Siang,95,Aktif,example.org
+Palembang,14:06,"Hj. Ika Nurdiyanti, M.Kom.",kuntharafarida@example.org,0849-2983-1672,1985,Xiaomi,Sedang,Suburban,41,Millennial,Siang,50,Kurang Aktif,example.org
+Medan,18:32,"Irma Prakasa, S.T.",manah81@example.org,0893-6590-1207,1974,Apple,Tinggi,Urban,52,Gen X,Sore,75,Kurang Aktif,example.org
+Jakarta Pusat,10:23,Daru Winarno,ikhsanharyanto@example.com,0892-8532-3506,1997,Apple,Sedang,Urban,29,Gen Z,Pagi,50,Kurang Aktif,example.com
+Yogyakarta,09:49,Julia Namaga,dagustina@example.org,0872-8616-8136,2004,Vivo,Tinggi,Tourism,22,Gen Z,Pagi,75,Kurang Aktif,example.org
+Medan,10:53,"drg. Kayla Padmasari, S.Ked",akuswandari@example.com,0822-5569-8385,1985,OPPO,Sedang,Urban,41,Millennial,Pagi,50,Kurang Aktif,example.com
+Palembang,16:21,Umi Wibisono,vnasyiah@example.net,0814-9098-6325,1994,Samsung,Sedang,Suburban,32,Millennial,Sore,50,Kurang Aktif,example.net
+Yogyakarta,14:17,KH. Luhung Prasetya,rprasetya@example.com,0887-5526-1166,1991,Samsung,Tinggi,Tourism,35,Millennial,Siang,75,Kurang Aktif,example.com
+Surabaya,10:31,Ana Wibisono,uli62@example.com,0882-4937-8800,1996,OPPO,Tinggi,Urban,30,Millennial,Pagi,75,Kurang Aktif,example.com
+Jakarta Selatan,15:18,Luthfi Nasyidah,wijayamaida@example.net,0839-7625-4986,1975,Vivo,Sedang,Urban,51,Gen X,Siang,50,Kurang Aktif,example.net
+Semarang,13:33,"Akarsana Hutasoit, S.Farm",virmannajmudin@example.org,0855-7971-6419,2005,OPPO,Sedang,Urban,21,Gen Z,Siang,50,Aktif,example.org
+Yogyakarta,16:14,Kezia Simbolon,upiksimbolon@example.com,0826-4155-6169,1986,OPPO,Rendah,Tourism,40,Millennial,Sore,25,Kurang Aktif,example.com
+Bandung,10:13,"dr. Estiawan Andriani, S.T.",halimaharis@example.net,0872-5530-9595,1982,Huawei,Tinggi,Urban,44,Millennial,Pagi,75,Kurang Aktif,example.net
+Surabaya,11:14,Dt. Wawan Tampubolon,salsabilahidayat@example.net,0857-3939-5952,1988,OPPO,Rendah,Urban,38,Millennial,Siang,25,Aktif,example.net
+Yogyakarta,11:03,Perkasa Dabukke,herudamanik@example.net,0881-5786-3068,1972,Apple,Tinggi,Tourism,54,Gen X,Siang,75,Aktif,example.net
+Jakarta Pusat,07:36,Digdaya Mahendra,hwinarsih@example.net,0847-8690-8843,1970,Samsung,Sedang,Urban,56,Gen X,Pagi,50,Kurang Aktif,example.net
+Jakarta Selatan,14:55,Jaka Rajasa,gandewa99@example.net,0872-2869-2070,1986,Samsung,Sedang,Urban,40,Millennial,Siang,50,Kurang Aktif,example.net
+Jakarta Selatan,14:09,"Calista Marpaung, S.Pd",prastutiaslijan@example.com,0883-5978-2395,1979,Samsung,Sangat Tinggi,Urban,47,Gen X,Siang,95,Kurang Aktif,example.com
+Makassar,13:49,Hj. Keisha Widodo,cakrawangsarahayu@example.net,0877-7232-8381,1984,Xiaomi,Sangat Tinggi,Urban,42,Millennial,Siang,95,Aktif,example.net
+Palembang,12:19,"Hj. Hesti Jailani, S.Pd",pratiwibakda@example.com,0883-1986-2625,1997,Samsung,Sangat Tinggi,Suburban,29,Gen Z,Siang,95,Aktif,example.com
+Surabaya,07:42,dr. Mitra Uwais,mayasarisalimah@example.com,0821-3573-4929,1986,Samsung,Sedang,Urban,40,Millennial,Pagi,50,Kurang Aktif,example.com
+Jakarta Selatan,11:28,Samsul Andriani,bkurniawan@example.com,0899-8699-5771,1996,Xiaomi,Rendah,Urban,30,Millennial,Siang,25,Aktif,example.com
+Yogyakarta,11:04,"Tri Haryanti, S.E.I",unugroho@example.net,0898-4824-5334,1999,Vivo,Tinggi,Tourism,27,Gen Z,Siang,75,Aktif,example.net
+Surabaya,09:07,"Emong Susanti, M.Pd",bhastuti@example.net,0880-4683-3441,1997,Apple,Sangat Tinggi,Urban,29,Gen Z,Pagi,95,Kurang Aktif,example.net
+Jakarta Pusat,12:10,Tgk. Janet Prasasta,setiawanumay@example.org,0850-5728-8195,1973,Vivo,Rendah,Urban,53,Gen X,Siang,25,Aktif,example.org
+Makassar,14:32,"drg. Kairav Suryatmi, S.Sos",asmianto75@example.org,0880-9090-8172,1987,Samsung,Rendah,Urban,39,Millennial,Siang,25,Kurang Aktif,example.org
+Makassar,20:38,Gabriella Thamrin,maman49@example.net,0843-1423-2496,1990,Vivo,Sedang,Urban,36,Millennial,Malam,50,Aktif,example.net
+Palembang,13:48,Puti Anggriawan,cawisonopermadi@example.net,0897-5415-1659,1971,Samsung,Tinggi,Suburban,55,Gen X,Siang,75,Aktif,example.net
+Denpasar,14:58,Nurul Puspita,zahrakusmawati@example.net,0846-3973-8141,1998,OPPO,Tinggi,Tourism,28,Gen Z,Siang,75,Kurang Aktif,example.net
+Jakarta Pusat,12:22,"Nurul Hassanah, S.Ked",sihombingilyas@example.com,0863-6460-6260,2000,Realme,Tinggi,Urban,26,Gen Z,Siang,75,Aktif,example.com
+Medan,05:44,"Hesti Samosir, M.Farm",warsita88@example.com,0874-5722-7561,1996,OPPO,Tinggi,Urban,30,Millennial,Pagi,75,Kurang Aktif,example.com
+Semarang,12:20,Uli Pudjiastuti,niyaga74@example.com,0843-6296-2899,1975,Xiaomi,Sangat Tinggi,Urban,51,Gen X,Siang,95,Aktif,example.com
+Denpasar,13:42,Gina Lazuardi,laswilazuardi@example.net,0880-8569-7770,1970,OPPO,Rendah,Tourism,56,Gen X,Siang,25,Aktif,example.net
+Palembang,22:40,KH. Muhammad Nashiruddin,ianlaksmiwati@example.com,0867-1845-4335,2001,Samsung,Sedang,Suburban,25,Gen Z,Malam,50,Kurang Aktif,example.com
+Yogyakarta,12:56,"Rini Novitasari, M.Ak",daliono34@example.org,0873-2989-1472,1998,Vivo,Sangat Tinggi,Tourism,28,Gen Z,Siang,95,Aktif,example.org
+Surabaya,14:19,Elma Sihombing,nasyidahdono@example.com,0881-1224-7684,1980,Huawei,Rendah,Urban,46,Gen X,Siang,25,Kurang Aktif,example.com
+Jakarta Pusat,12:07,Asmadi Puspasari,zelda27@example.org,0893-3522-9165,1999,Xiaomi,Sangat Tinggi,Urban,27,Gen Z,Siang,95,Aktif,example.org
+Yogyakarta,08:53,"Cut Queen Suryono, M.Kom.",vfarida@example.org,0872-8736-4993,1996,Samsung,Sedang,Tourism,30,Millennial,Pagi,50,Kurang Aktif,example.org
+Surabaya,17:47,Dono Kuswandari,haryantorama@example.com,0828-2143-5526,2002,Realme,Tinggi,Urban,24,Gen Z,Sore,75,Kurang Aktif,example.com
+Medan,16:17,Koko Usamah,maryadiemin@example.net,0811-5634-5891,2002,OPPO,Tinggi,Urban,24,Gen Z,Sore,75,Kurang Aktif,example.net
+Semarang,16:28,Chelsea Prayoga,puspitarafi@example.net,0879-8935-6654,1979,Apple,Sedang,Urban,47,Gen X,Sore,50,Kurang Aktif,example.net
+Makassar,09:59,Ir. Genta Nurdiyanti,chartati@example.com,0852-4090-4912,1999,Samsung,Tinggi,Urban,27,Gen Z,Pagi,75,Kurang Aktif,example.com
+Makassar,18:20,"Ir. Maria Samosir, M.Farm",suryatmidalimin@example.org,0871-7246-7325,1972,Apple,Sangat Tinggi,Urban,54,Gen X,Sore,95,Kurang Aktif,example.org
+Bandung,07:02,"Danuja Saptono, S.Pt",jatmikonatsir@example.net,0827-9229-6439,2001,Realme,Sangat Tinggi,Urban,25,Gen Z,Pagi,95,Kurang Aktif,example.net
+Semarang,15:33,Candrakanta Adriansyah,shartati@example.net,0869-1251-3361,1976,Vivo,Sedang,Urban,50,Gen X,Siang,50,Kurang Aktif,example.net
+Bandung,21:30,Icha Firmansyah,kokosuryono@example.net,0844-6546-7512,1974,Realme,Tinggi,Urban,52,Gen X,Malam,75,Aktif,example.net
+Denpasar,09:20,"Dr. Belinda Pradipta, S.T.",solehlatupono@example.net,0891-8994-9864,1994,Samsung,Rendah,Tourism,32,Millennial,Pagi,25,Kurang Aktif,example.net
+Yogyakarta,10:47,Marsudi Maryadi,edi10@example.org,0822-8110-2612,1984,Vivo,Tinggi,Tourism,42,Millennial,Pagi,75,Kurang Aktif,example.org
+Jakarta Pusat,13:10,"T. Legawa Purnawati, S.Pd",dmaheswara@example.net,0899-5906-1474,1998,Apple,Rendah,Urban,28,Gen Z,Siang,25,Aktif,example.net
+Yogyakarta,10:23,Tira Waskita,belinda87@example.com,0866-3385-5000,1992,OPPO,Tinggi,Tourism,34,Millennial,Pagi,75,Kurang Aktif,example.com
+Bandung,06:11,Liman Gunarto,msinaga@example.com,0821-7267-4945,1980,Vivo,Sedang,Urban,46,Gen X,Pagi,50,Kurang Aktif,example.com
+Surabaya,13:40,Bakijan Pradana,wulandarikawaya@example.net,0843-8529-5183,1999,Realme,Tinggi,Urban,27,Gen Z,Siang,75,Aktif,example.net
+Semarang,08:43,Prabowo Natsir,pmaryati@example.com,0880-3588-2210,1988,Xiaomi,Sedang,Urban,38,Millennial,Pagi,50,Kurang Aktif,example.com
+Palembang,14:40,Elvina Padmasari,fusada@example.org,0865-5097-8484,1989,Samsung,Tinggi,Suburban,37,Millennial,Siang,75,Kurang Aktif,example.org
+Makassar,09:06,Kamaria Wasita,maras12@example.com,0841-7248-6881,2000,Huawei,Tinggi,Urban,26,Gen Z,Pagi,75,Kurang Aktif,example.com
+Yogyakarta,19:53,Talia Lailasari,tantri68@example.org,0895-7484-5497,1971,Realme,Rendah,Tourism,55,Gen X,Sore,25,Aktif,example.org
+Jakarta Selatan,09:53,Clara Sihotang,marsudi16@example.net,0847-4770-6772,2001,Samsung,Sedang,Urban,25,Gen Z,Pagi,50,Kurang Aktif,example.net
+Yogyakarta,11:40,"Cut Sakura Namaga, M.M.",mhabibi@example.net,0823-1645-6061,1978,Samsung,Tinggi,Tourism,48,Gen X,Siang,75,Aktif,example.net
+Medan,16:05,Sarah Mandasari,nhabibi@example.com,0848-6352-7807,1978,Samsung,Sedang,Urban,48,Gen X,Sore,50,Kurang Aktif,example.com
+Denpasar,08:33,R.M. Wira Suwarno,hlaksita@example.org,0875-5465-3695,1993,Apple,Sedang,Tourism,33,Millennial,Pagi,50,Kurang Aktif,example.org
+Semarang,13:47,"Lulut Permadi, S.E.",ika08@example.com,0854-2886-8673,1988,Samsung,Sangat Tinggi,Urban,38,Millennial,Siang,95,Aktif,example.com
+Surabaya,18:54,Darmanto Latupono,plazuardi@example.org,0882-6992-2479,1995,Samsung,Tinggi,Urban,31,Millennial,Sore,75,Kurang Aktif,example.org
+Denpasar,06:29,Tina Siregar,radika77@example.org,0858-5295-7242,1977,Infinix,Tinggi,Tourism,49,Gen X,Pagi,75,Kurang Aktif,example.org
+Jakarta Pusat,13:30,Puspa Maulana,mnainggolan@example.net,0814-6374-4626,1984,Vivo,Tinggi,Urban,42,Millennial,Siang,75,Aktif,example.net
+Semarang,14:41,"Diana Hidayat, S.T.",ysiregar@example.net,0863-2911-3290,1989,Samsung,Rendah,Urban,37,Millennial,Siang,25,Kurang Aktif,example.net
+Semarang,16:06,Yuni Adriansyah,lembah99@example.net,0841-9807-3222,1977,Xiaomi,Sedang,Urban,49,Gen X,Sore,50,Kurang Aktif,example.net
+Denpasar,08:37,Zelaya Maryadi,enasyiah@example.com,0830-7797-2622,1996,Vivo,Tinggi,Tourism,30,Millennial,Pagi,75,Kurang Aktif,example.com
+Yogyakarta,07:44,Puspa Palastri,uhasanah@example.org,0858-4559-8264,1972,Samsung,Sedang,Tourism,54,Gen X,Pagi,50,Kurang Aktif,example.org
+Medan,15:43,"Halima Pertiwi, S.Sos",rizkigunawan@example.com,0858-9920-6876,1976,Xiaomi,Rendah,Urban,50,Gen X,Siang,25,Kurang Aktif,example.com
+Jakarta Pusat,14:05,"Nabila Wibowo, S.Sos",anastasiafirgantoro@example.org,0895-4475-1349,1999,Xiaomi,Rendah,Urban,27,Gen Z,Siang,25,Kurang Aktif,example.org
+Bandung,14:13,Drs. Gamblang Januar,hjanuar@example.com,0819-4394-4538,2006,Samsung,Tinggi,Urban,20,Gen Z,Siang,75,Kurang Aktif,example.com
+Bandung,14:17,Najam Megantara,jyolanda@example.org,0829-3129-9850,1970,Samsung,Sedang,Urban,56,Gen X,Siang,50,Kurang Aktif,example.org
+Jakarta Selatan,10:00,Violet Saptono,padmi61@example.com,0856-4898-6304,1978,Xiaomi,Rendah,Urban,48,Gen X,Pagi,25,Kurang Aktif,example.com
+Bandung,13:33,"Hj. Zamira Nasyidah, S.Sos",ratih78@example.org,0825-2041-8802,1996,Xiaomi,Sedang,Urban,30,Millennial,Siang,50,Aktif,example.org
+Palembang,14:28,Puti Gilda Usamah,jaeman16@example.org,0875-4629-1710,1976,Realme,Tinggi,Suburban,50,Gen X,Siang,75,Kurang Aktif,example.org
+Denpasar,10:29,"Ir. Niyaga Januar, M.M.",zulfasalahudin@example.org,0893-1510-1996,1989,Realme,Sangat Tinggi,Tourism,37,Millennial,Pagi,95,Kurang Aktif,example.org
+Makassar,20:31,Gamani Hakim,nasim56@example.org,0867-2204-2323,1976,Samsung,Sedang,Urban,50,Gen X,Malam,50,Aktif,example.org
+Bandung,14:39,Karta Zulkarnain,ganepnatsir@example.org,0892-9984-6327,1987,Vivo,Sedang,Urban,39,Millennial,Siang,50,Kurang Aktif,example.org
+Yogyakarta,08:32,drg. Raina Zulaika,almirapadmasari@example.org,0888-8048-2624,1999,Samsung,Tinggi,Tourism,27,Gen Z,Pagi,75,Kurang Aktif,example.org
+Denpasar,15:27,Jail Uyainah,vega40@example.com,0868-4743-7779,1983,OPPO,Sedang,Tourism,43,Millennial,Siang,50,Kurang Aktif,example.com
+Makassar,09:20,Shania Palastri,cakrajiyahandayani@example.com,0865-6120-5176,1976,Samsung,Sedang,Urban,50,Gen X,Pagi,50,Kurang Aktif,example.com
+Semarang,16:05,Tgk. Suci Anggraini,vino43@example.com,0821-2527-8075,1974,Apple,Rendah,Urban,52,Gen X,Sore,25,Kurang Aktif,example.com
+Bandung,17:03,"Dr. Cici Prakasa, S.Sos",kartika44@example.org,0886-6400-3002,2005,Realme,Sedang,Urban,21,Gen Z,Sore,50,Kurang Aktif,example.org
+Makassar,09:18,"Hj. Lala Saefullah, S.Ked",sudiatiamelia@example.com,0887-6119-6761,1973,OPPO,Rendah,Urban,53,Gen X,Pagi,25,Kurang Aktif,example.com
+Bandung,16:14,"KH. Dartono Sudiati, S.I.Kom",raisanainggolan@example.net,0824-6736-7022,2000,Xiaomi,Rendah,Urban,26,Gen Z,Sore,25,Kurang Aktif,example.net
+Surabaya,14:54,Shania Wahyuni,restukuswoyo@example.net,0882-1430-5381,1997,Xiaomi,Rendah,Urban,29,Gen Z,Siang,25,Kurang Aktif,example.net
+Yogyakarta,16:22,"Arta Saragih, M.M.",prastutiomar@example.net,0811-3972-3347,1991,Xiaomi,Tinggi,Tourism,35,Millennial,Sore,75,Kurang Aktif,example.net
+Bandung,20:05,Bakijan Sihombing,radika23@example.org,0878-4524-7163,1971,Xiaomi,Sedang,Urban,55,Gen X,Malam,50,Aktif,example.org
+Medan,12:46,"Dr. Taufik Utama, M.TI.",gambira47@example.com,0852-2391-1861,1989,Apple,Sedang,Urban,37,Millennial,Siang,50,Aktif,example.com
+Jakarta Selatan,09:17,"Jessica Latupono, M.M.",megantarajabal@example.net,0867-7947-8957,1975,Xiaomi,Tinggi,Urban,51,Gen X,Pagi,75,Kurang Aktif,example.net
+Surabaya,09:07,"Samiah Widodo, M.Pd",cemeti60@example.com,0855-8043-2816,2002,Vivo,Sedang,Urban,24,Gen Z,Pagi,50,Kurang Aktif,example.com
+Semarang,09:42,R. Jaeman Uwais,laila65@example.org,0850-1744-4612,2003,Vivo,Sedang,Urban,23,Gen Z,Pagi,50,Kurang Aktif,example.org
+Jakarta Selatan,12:19,"Daruna Halimah, S.Ked",oni31@example.net,0838-3248-5186,1983,Samsung,Sedang,Urban,43,Millennial,Siang,50,Aktif,example.net
+Semarang,14:11,"Dr. Tira Sihombing, S.Farm",mandalabakijan@example.org,0827-7229-9725,1997,OPPO,Tinggi,Urban,29,Gen Z,Siang,75,Kurang Aktif,example.org
+Medan,14:25,Nilam Latupono,prakasagawati@example.org,0816-8147-1307,1974,Samsung,Sedang,Urban,52,Gen X,Siang,50,Kurang Aktif,example.org
+Medan,16:27,Mutia Uwais,vrahmawati@example.net,0884-7626-7843,2006,Xiaomi,Sedang,Urban,20,Gen Z,Sore,50,Kurang Aktif,example.net
+Medan,13:51,Timbul Agustina,lestaripatricia@example.com,0890-8538-6928,1980,Realme,Rendah,Urban,46,Gen X,Siang,25,Aktif,example.com
+Surabaya,18:37,Ami Uwais,tirtahandayani@example.org,0862-9584-2288,1997,Xiaomi,Sedang,Urban,29,Gen Z,Sore,50,Kurang Aktif,example.org
+Medan,11:21,"dr. Cinthia Uwais, M.Pd",banawi64@example.org,0832-2251-9363,1984,OPPO,Tinggi,Urban,42,Millennial,Siang,75,Aktif,example.org
+Surabaya,23:22,Warta Hasanah,wijayantiirwan@example.net,0893-3419-4871,1992,Xiaomi,Rendah,Urban,34,Millennial,Malam,25,Kurang Aktif,example.net
+Bandung,15:48,"Lembah Damanik, S.Gz",jinawi29@example.org,0894-2234-3902,1979,Vivo,Sangat Tinggi,Urban,47,Gen X,Siang,95,Kurang Aktif,example.org
+Semarang,09:48,Radit Puspasari,lidyapratama@example.org,0885-8354-6295,2006,Vivo,Sangat Tinggi,Urban,20,Gen Z,Pagi,95,Kurang Aktif,example.org
+Bandung,08:04,Vicky Maulana,saefullahelvin@example.org,0871-8245-5961,1998,Vivo,Tinggi,Urban,28,Gen Z,Pagi,75,Kurang Aktif,example.org
+Medan,14:04,T. Raditya Natsir,wijayantiaslijan@example.org,0850-8565-8404,2002,Xiaomi,Rendah,Urban,24,Gen Z,Siang,25,Kurang Aktif,example.org
+Yogyakarta,12:41,Gatot Prakasa,anggabaya24@example.org,0822-9307-7299,1974,OPPO,Sedang,Tourism,52,Gen X,Siang,50,Aktif,example.org
+Jakarta Selatan,15:58,Opung Andriani,haryantowawan@example.com,0884-4084-6267,1998,OPPO,Tinggi,Urban,28,Gen Z,Siang,75,Kurang Aktif,example.com
+Jakarta Selatan,14:06,"Tgk. Kambali Rahayu, S.IP",omardhiyah@example.net,0854-2381-9266,1998,Samsung,Tinggi,Urban,28,Gen Z,Siang,75,Kurang Aktif,example.net
+Semarang,12:33,Ozy Wahyuni,vero00@example.com,0877-3600-6962,1998,Xiaomi,Sedang,Urban,28,Gen Z,Siang,50,Aktif,example.com
+Makassar,09:43,"drg. Maria Kurniawan, M.Kom.",fhidayanto@example.com,0887-1857-6482,1991,Samsung,Rendah,Urban,35,Millennial,Pagi,25,Kurang Aktif,example.com
+Makassar,06:16,R. Bella Mahendra,qori98@example.net,0895-3463-6461,1988,Vivo,Rendah,Urban,38,Millennial,Pagi,25,Kurang Aktif,example.net
+Medan,11:41,Kezia Riyanti,umaya89@example.com,0895-7421-3112,1989,Infinix,Tinggi,Urban,37,Millennial,Siang,75,Aktif,example.com
+Yogyakarta,16:24,Putu Latupono,satyahartati@example.org,0893-6381-3093,2005,Apple,Tinggi,Tourism,21,Gen Z,Sore,75,Kurang Aktif,example.org
+Denpasar,13:41,Jessica Hasanah,uagustina@example.org,0896-7937-9331,1975,Xiaomi,Sedang,Tourism,51,Gen X,Siang,50,Aktif,example.org
+Bandung,08:21,Maria Sihotang,pangestu27@example.org,0873-4145-4711,1983,Samsung,Sangat Tinggi,Urban,43,Millennial,Pagi,95,Kurang Aktif,example.org
+Yogyakarta,13:32,Radika Hutasoit,astutidadi@example.net,0880-9626-1618,1976,Realme,Tinggi,Tourism,50,Gen X,Siang,75,Aktif,example.net
+Palembang,14:38,"Kasiyah Mustofa, M.Pd",rahmawatijamalia@example.net,0859-3527-3658,1978,Vivo,Sedang,Suburban,48,Gen X,Siang,50,Kurang Aktif,example.net
+Palembang,09:46,Salsabila Maheswara,qthamrin@example.com,0867-1715-7731,1980,Apple,Sedang,Suburban,46,Gen X,Pagi,50,Kurang Aktif,example.com
+Semarang,13:48,"Cut Irma Rahimah, S.Pd",daniswara98@example.org,0868-4833-9749,1988,Infinix,Sedang,Urban,38,Millennial,Siang,50,Aktif,example.org
+Semarang,13:23,Maryadi Laksmiwati,darijantampubolon@example.net,0897-8218-8564,1982,Apple,Tinggi,Urban,44,Millennial,Siang,75,Aktif,example.net
+Denpasar,08:26,Calista Setiawan,sidiqpurwanti@example.net,0831-4271-3267,2003,Samsung,Sangat Tinggi,Tourism,23,Gen Z,Pagi,95,Kurang Aktif,example.net
+Semarang,14:35,Hj. Syahrini Puspita,sudiatitira@example.net,0824-9452-3042,1993,Apple,Sedang,Urban,33,Millennial,Siang,50,Kurang Aktif,example.net
+Yogyakarta,15:57,Ana Najmudin,lasmanto55@example.org,0876-3414-8167,1998,Realme,Rendah,Tourism,28,Gen Z,Siang,25,Kurang Aktif,example.org
+Semarang,17:59,Tedi Megantara,jhidayat@example.net,0814-7797-1872,1992,Xiaomi,Sedang,Urban,34,Millennial,Sore,50,Kurang Aktif,example.net
+Makassar,17:23,"Among Iswahyudi, M.TI.",parmanandriani@example.com,0839-1461-6221,1975,Realme,Sangat Tinggi,Urban,51,Gen X,Sore,95,Kurang Aktif,example.com
+Medan,07:08,Endah Uwais,martaka99@example.org,0815-5700-8740,1979,Samsung,Tinggi,Urban,47,Gen X,Pagi,75,Kurang Aktif,example.org
+Semarang,09:39,Chandra Manullang,wulandaricarub@example.com,0811-2298-1311,1998,Realme,Sedang,Urban,28,Gen Z,Pagi,50,Kurang Aktif,example.com
+Denpasar,15:27,Salimah Anggraini,csudiati@example.com,0825-5720-4893,2003,Samsung,Sedang,Tourism,23,Gen Z,Siang,50,Kurang Aktif,example.com
+Makassar,15:04,Gasti Mulyani,situmorangsatya@example.org,0825-9189-9782,1999,OPPO,Rendah,Urban,27,Gen Z,Siang,25,Kurang Aktif,example.org
+Surabaya,15:18,Shania Wastuti,qnovitasari@example.com,0865-1025-6780,1979,Xiaomi,Sedang,Urban,47,Gen X,Siang,50,Kurang Aktif,example.com
+Jakarta Pusat,23:23,Darmaji Widodo,ardiantohasan@example.com,0819-9618-9914,2003,Huawei,Tinggi,Urban,23,Gen Z,Malam,75,Kurang Aktif,example.com
+Denpasar,15:24,Pranata Mandala,labuh51@example.org,0871-1713-7338,1971,Xiaomi,Sangat Tinggi,Tourism,55,Gen X,Siang,95,Kurang Aktif,example.org
+Jakarta Selatan,17:50,Ulva Astuti,ekawibowo@example.net,0819-6649-4950,1992,Vivo,Tinggi,Urban,34,Millennial,Sore,75,Kurang Aktif,example.net
+Palembang,16:08,"Ghaliyati Mardhiyah, M.Pd",cakrabirawa60@example.com,0816-6772-9945,1991,Vivo,Sedang,Suburban,35,Millennial,Sore,50,Kurang Aktif,example.com
+Semarang,15:40,Jagaraga Hutagalung,kasiyah69@example.com,0834-3209-2033,2000,Infinix,Tinggi,Urban,26,Gen Z,Siang,75,Kurang Aktif,example.com
+Jakarta Selatan,11:12,"Suci Agustina, S.Pd",waskitaartanto@example.com,0816-4268-1686,1988,Xiaomi,Sedang,Urban,38,Millennial,Siang,50,Aktif,example.com
+Makassar,16:30,Rama Safitri,ftarihoran@example.com,0843-1599-4131,2004,Realme,Sedang,Urban,22,Gen Z,Sore,50,Kurang Aktif,example.com
+Jakarta Selatan,09:17,"Puti Hesti Fujiati, M.Farm",fnovitasari@example.com,0826-7029-8159,1991,Apple,Sangat Tinggi,Urban,35,Millennial,Pagi,95,Kurang Aktif,example.com
+Makassar,12:11,"Tgk. Uli Sirait, S.H.",gandi18@example.net,0874-9151-7018,1991,OPPO,Sangat Tinggi,Urban,35,Millennial,Siang,95,Aktif,example.net
+Jakarta Pusat,11:05,Karta Melani,nalartampubolon@example.net,0866-3956-9937,1997,Samsung,Sedang,Urban,29,Gen Z,Siang,50,Aktif,example.net
+Medan,13:19,"Hj. Yulia Maulana, S.H.",maulanakambali@example.org,0868-7981-3730,1988,Xiaomi,Tinggi,Urban,38,Millennial,Siang,75,Aktif,example.org
+Jakarta Selatan,22:39,Luhung Mangunsong,nugrohorestu@example.com,0866-5498-1939,1992,Vivo,Rendah,Urban,34,Millennial,Malam,25,Kurang Aktif,example.com
+Medan,05:51,Usyi Pratiwi,kzulaika@example.net,0897-3621-1510,2002,Vivo,Rendah,Urban,24,Gen Z,Pagi,25,Kurang Aktif,example.net
+Semarang,15:08,"Leo Sinaga, S.Psi",tasnimhidayat@example.com,0819-4866-7001,1972,Infinix,Sedang,Urban,54,Gen X,Siang,50,Kurang Aktif,example.com
+Jakarta Selatan,06:43,Siti Sihombing,maya05@example.net,0868-7077-7095,1979,Samsung,Sedang,Urban,47,Gen X,Pagi,50,Kurang Aktif,example.net
+Bandung,11:23,Galak Hariyah,dfirgantoro@example.com,0861-6150-5566,2003,Samsung,Sedang,Urban,23,Gen Z,Siang,50,Aktif,example.com
+Bandung,17:33,"Tgk. Citra Yuliarti, S.Pt",lhariyah@example.net,0860-2929-5288,2001,Vivo,Tinggi,Urban,25,Gen Z,Sore,75,Kurang Aktif,example.net
+Surabaya,13:44,"H. Umar Gunarto, M.M.",marganasuartini@example.com,0873-4279-3009,1988,Samsung,Rendah,Urban,38,Millennial,Siang,25,Aktif,example.com
+Bandung,08:05,R.M. Yusuf Halim,zjailani@example.com,0898-6236-6692,1998,OPPO,Tinggi,Urban,28,Gen Z,Pagi,75,Kurang Aktif,example.com
+Yogyakarta,10:54,"Chelsea Mayasari, S.E.",prayogataufik@example.com,0831-3852-6922,1989,Samsung,Tinggi,Tourism,37,Millennial,Pagi,75,Kurang Aktif,example.com
+Surabaya,15:15,Dr. Lurhur Manullang,panca46@example.com,0874-1430-6912,1978,Xiaomi,Tinggi,Urban,48,Gen X,Siang,75,Kurang Aktif,example.com
+Denpasar,10:39,"Tgk. Mustika Rahimah, S.Gz",cahyadi51@example.net,0822-2077-6067,1978,Apple,Sedang,Tourism,48,Gen X,Pagi,50,Kurang Aktif,example.net
+Semarang,13:26,"Harsana Suryono, S.T.",mulyantohutapea@example.net,0863-2208-3053,2003,Vivo,Sangat Tinggi,Urban,23,Gen Z,Siang,95,Aktif,example.net
+Semarang,13:43,"Caket Tampubolon, S.Pd",mmustofa@example.net,0877-6644-3102,1999,Apple,Sangat Tinggi,Urban,27,Gen Z,Siang,95,Aktif,example.net
+Palembang,10:49,Galak Purwanti,yyuniar@example.com,0827-8088-9238,1981,Samsung,Sangat Tinggi,Suburban,45,Millennial,Pagi,95,Kurang Aktif,example.com
+Jakarta Pusat,21:09,"R. Salsabila Novitasari, S.Pt",xmelani@example.org,0849-3697-3653,2003,Vivo,Sedang,Urban,23,Gen Z,Malam,50,Aktif,example.org
+Medan,15:57,Ira Najmudin,mahmudlaksita@example.org,0847-2292-5105,2003,Infinix,Sedang,Urban,23,Gen Z,Siang,50,Kurang Aktif,example.org
+Yogyakarta,04:40,Cahyo Mangunsong,sihombingdamar@example.net,0849-9740-2530,1978,Samsung,Tinggi,Tourism,48,Gen X,Malam,75,Kurang Aktif,example.net
+Palembang,13:10,"Dr. Rafid Novitasari, S.Gz",puput29@example.com,0895-6531-1674,1979,Samsung,Tinggi,Suburban,47,Gen X,Siang,75,Aktif,example.com
+Jakarta Selatan,10:16,Carub Najmudin,taufikgunawan@example.com,0894-4453-7825,2006,Samsung,Tinggi,Urban,20,Gen Z,Pagi,75,Kurang Aktif,example.com
+Denpasar,16:41,Shania Prakasa,ssuryatmi@example.net,0849-8912-5012,1988,Vivo,Tinggi,Tourism,38,Millennial,Sore,75,Kurang Aktif,example.net
+Yogyakarta,09:04,"drg. Daruna Nasyidah, S.H.",wakiman35@example.net,0899-1981-3589,1999,OPPO,Sedang,Tourism,27,Gen Z,Pagi,50,Kurang Aktif,example.net
+Surabaya,12:38,Dr. Malika Suryono,hmardhiyah@example.com,0829-6121-6231,1991,Realme,Tinggi,Urban,35,Millennial,Siang,75,Aktif,example.com
+Makassar,15:48,Rendy Pangestu,jaishabibi@example.net,0858-9437-2739,1978,OPPO,Sedang,Urban,48,Gen X,Siang,50,Kurang Aktif,example.net
+Yogyakarta,16:15,Kasiyah Puspasari,maryatidrajat@example.com,0829-2586-1829,1998,Xiaomi,Sedang,Tourism,28,Gen Z,Sore,50,Kurang Aktif,example.com
+Palembang,08:15,Prabowo Marpaung,uda82@example.com,0831-6364-6123,1996,Samsung,Sedang,Suburban,30,Millennial,Pagi,50,Kurang Aktif,example.com
+Denpasar,11:31,Warsita Prasetya,btampubolon@example.com,0850-9148-1379,1999,Xiaomi,Rendah,Tourism,27,Gen Z,Siang,25,Aktif,example.com
+Semarang,11:13,Harto Mardhiyah,jarwi61@example.com,0885-6781-1797,1985,OPPO,Rendah,Urban,41,Millennial,Siang,25,Aktif,example.com
+Semarang,10:34,Alambana Simanjuntak,yuliantimumpuni@example.org,0812-2761-8060,1988,Xiaomi,Rendah,Urban,38,Millennial,Pagi,25,Kurang Aktif,example.org
+Medan,20:23,Aris Suwarno,wmandala@example.net,0816-7563-1838,1995,Samsung,Tinggi,Urban,31,Millennial,Malam,75,Aktif,example.net
+Denpasar,14:04,Melinda Susanti,hutapeaaris@example.com,0860-9261-8378,1988,Xiaomi,Tinggi,Tourism,38,Millennial,Siang,75,Kurang Aktif,example.com
+Palembang,07:08,Rafid Maryadi,xkusumo@example.com,0823-7453-7114,1977,Xiaomi,Tinggi,Suburban,49,Gen X,Pagi,75,Kurang Aktif,example.com
+Medan,16:12,Gada Maheswara,permadisalman@example.net,0888-9341-7576,1979,Samsung,Tinggi,Urban,47,Gen X,Sore,75,Kurang Aktif,example.net
+Bandung,21:51,"Drs. Jagapati Haryanto, S.IP",iriyanti@example.org,0871-9508-8487,1991,Realme,Rendah,Urban,35,Millennial,Malam,25,Aktif,example.org
+Bandung,17:59,"Kamidin Permata, S.H.",lamararyani@example.org,0889-6218-3662,1990,Vivo,Sedang,Urban,36,Millennial,Sore,50,Kurang Aktif,example.org
+Yogyakarta,06:32,dr. Halima Pertiwi,qnashiruddin@example.net,0876-9721-9025,1991,Xiaomi,Tinggi,Tourism,35,Millennial,Pagi,75,Kurang Aktif,example.net
+Jakarta Selatan,11:21,Karna Tarihoran,novitasarihilda@example.net,0897-2795-7824,1993,Apple,Tinggi,Urban,33,Millennial,Siang,75,Aktif,example.net
+Jakarta Selatan,18:16,"Dr. Kadir Damanik, S.Sos",ogunawan@example.com,0894-4728-1841,2000,Samsung,Tinggi,Urban,26,Gen Z,Sore,75,Kurang Aktif,example.com
+Palembang,10:09,Hafshah Budiyanto,cahya53@example.net,0898-4968-1517,1994,Vivo,Tinggi,Suburban,32,Millennial,Pagi,75,Kurang Aktif,example.net
+Surabaya,14:28,"Lutfan Jailani, M.Farm",emas05@example.net,0851-7861-3481,1971,Samsung,Sedang,Urban,55,Gen X,Siang,50,Kurang Aktif,example.net
+Denpasar,16:55,Yulia Yuniar,yessihariyah@example.net,0818-3262-9498,2000,Xiaomi,Sedang,Tourism,26,Gen Z,Sore,50,Kurang Aktif,example.net
+Semarang,09:24,Siti Najmudin,budiharyanti@example.org,0851-3837-8531,2003,Xiaomi,Sangat Tinggi,Urban,23,Gen Z,Pagi,95,Kurang Aktif,example.org
+Medan,12:39,Farah Gunawan,bakdasihotang@example.com,0872-4150-5038,1986,Xiaomi,Sedang,Urban,40,Millennial,Siang,50,Aktif,example.com
+Yogyakarta,00:45,dr. Rahman Palastri,cramadan@example.net,0837-9011-6194,1988,OPPO,Sedang,Tourism,38,Millennial,Malam,50,Kurang Aktif,example.net
+Yogyakarta,08:07,Edison Tamba,yolandamujur@example.com,0884-9899-7220,1988,Xiaomi,Sangat Tinggi,Tourism,38,Millennial,Pagi,95,Kurang Aktif,example.com
+Medan,11:18,Raharja Uwais,vwacana@example.com,0816-5712-2294,1979,OPPO,Sedang,Urban,47,Gen X,Siang,50,Aktif,example.com
+Yogyakarta,08:13,Jessica Nashiruddin,xmandasari@example.net,0836-9824-5442,2000,Vivo,Sangat Tinggi,Tourism,26,Gen Z,Pagi,95,Kurang Aktif,example.net
+Bandung,19:39,Wani Hutasoit,bhutapea@example.net,0886-4920-4972,1976,Realme,Rendah,Urban,50,Gen X,Sore,25,Aktif,example.net
+Surabaya,07:03,"R. Puji Sihombing, S.Psi",hutapeamarwata@example.net,0823-7771-6411,1984,Samsung,Tinggi,Urban,42,Millennial,Pagi,75,Kurang Aktif,example.net
+Bandung,11:35,Ina Hassanah,smarbun@example.com,0831-7666-8793,1970,Samsung,Sedang,Urban,56,Gen X,Siang,50,Aktif,example.com
+Yogyakarta,13:18,Melinda Gunarto,paris64@example.net,0893-1969-2465,1990,Samsung,Tinggi,Tourism,36,Millennial,Siang,75,Aktif,example.net
+Jakarta Selatan,18:26,"Dt. Bahuraksa Winarsih, S.Sos",dewi20@example.org,0833-1595-7504,1981,Samsung,Tinggi,Urban,45,Millennial,Sore,75,Kurang Aktif,example.org
+Yogyakarta,07:00,"Ir. Shania Farida, S.Gz",cahyantoprakasa@example.net,0849-2758-6489,1972,Huawei,Sedang,Tourism,54,Gen X,Pagi,50,Kurang Aktif,example.net
+Denpasar,17:31,Karen Winarno,suartinigaiman@example.net,0828-9261-8668,2003,Apple,Sedang,Tourism,23,Gen Z,Sore,50,Kurang Aktif,example.net
+Medan,13:46,Kartika Wahyudin,khutagalung@example.org,0869-5215-4050,1980,Xiaomi,Rendah,Urban,46,Gen X,Siang,25,Aktif,example.org
+Yogyakarta,09:43,Tgk. Hasta Sihotang,jamil10@example.net,0835-3875-7643,2006,OPPO,Tinggi,Tourism,20,Gen Z,Pagi,75,Kurang Aktif,example.net
+Jakarta Pusat,14:42,Jamil Maryati,hpurwanti@example.com,0823-4027-3303,1995,Infinix,Sedang,Urban,31,Millennial,Siang,50,Kurang Aktif,example.com
+Jakarta Selatan,13:24,"T. Niyaga Hassanah, S.Kom",zulfa73@example.org,0841-8319-5374,1986,Xiaomi,Sangat Tinggi,Urban,40,Millennial,Siang,95,Aktif,example.org
+Palembang,10:16,Simon Hidayanto,tnatsir@example.com,0894-6890-4871,1970,Samsung,Rendah,Suburban,56,Gen X,Pagi,25,Kurang Aktif,example.com
+Yogyakarta,13:25,Rusman Zulaika,ulya51@example.net,0898-9233-6095,1980,Vivo,Tinggi,Tourism,46,Gen X,Siang,75,Aktif,example.net
+Yogyakarta,11:39,T. Tri Salahudin,sarahnatsir@example.com,0839-4590-3188,1993,OPPO,Sedang,Tourism,33,Millennial,Siang,50,Aktif,example.com
+Palembang,13:26,Sutan Banawi Pangestu,jasmanilailasari@example.org,0881-8714-9806,1993,Apple,Tinggi,Suburban,33,Millennial,Siang,75,Aktif,example.org
+Surabaya,15:33,Puspa Pertiwi,warji82@example.net,0868-9653-6927,1975,OPPO,Rendah,Urban,51,Gen X,Siang,25,Kurang Aktif,example.net
+Jakarta Selatan,19:57,Atmaja Saragih,hkuswandari@example.com,0875-4312-9792,2005,Xiaomi,Rendah,Urban,21,Gen Z,Sore,25,Aktif,example.com
+Denpasar,08:07,"dr. Ridwan Permata, S.Pt",mahesayuniar@example.org,0898-4365-9008,1998,OPPO,Rendah,Tourism,28,Gen Z,Pagi,25,Kurang Aktif,example.org
+Jakarta Selatan,21:08,Nadia Zulaika,edi89@example.org,0876-7806-8484,1999,OPPO,Tinggi,Urban,27,Gen Z,Malam,75,Aktif,example.org
+Yogyakarta,05:25,"R.M. Ian Mardhiyah, S.Gz",maryatigaduh@example.com,0843-1049-4570,1971,Samsung,Tinggi,Tourism,55,Gen X,Pagi,75,Kurang Aktif,example.com
+Medan,12:34,Caraka Sinaga,mustofamaryati@example.com,0818-2130-8734,1974,Xiaomi,Rendah,Urban,52,Gen X,Siang,25,Aktif,example.com
+Bandung,15:23,"Puti Hafshah Napitupulu, M.Pd",dwi49@example.net,0859-8348-7184,1996,Vivo,Sedang,Urban,30,Millennial,Siang,50,Kurang Aktif,example.net
+Denpasar,14:41,Jefri Yuniar,maidaprastuti@example.org,0855-2943-3924,1978,Xiaomi,Sangat Tinggi,Tourism,48,Gen X,Siang,95,Kurang Aktif,example.org
+Bandung,10:53,Maryanto Oktaviani,jane00@example.org,0811-1372-5888,1984,Apple,Sedang,Urban,42,Millennial,Pagi,50,Kurang Aktif,example.org
+Makassar,12:24,Warta Yuniar,samiah39@example.com,0840-5055-8546,2004,Xiaomi,Sedang,Urban,22,Gen Z,Siang,50,Aktif,example.com
+Jakarta Pusat,11:51,Hj. Ana Mandasari,suci47@example.org,0895-7868-1256,1972,Samsung,Sedang,Urban,54,Gen X,Siang,50,Aktif,example.org
+Palembang,10:28,"KH. Mahdi Waskita, S.Pd",shidayanto@example.org,0887-1797-5009,1972,Xiaomi,Tinggi,Suburban,54,Gen X,Pagi,75,Kurang Aktif,example.org
+Surabaya,16:13,Irnanto Agustina,nhariyah@example.com,0818-3295-9255,2004,Samsung,Sangat Tinggi,Urban,22,Gen Z,Sore,95,Kurang Aktif,example.com
+Palembang,14:36,R. Iriana Simanjuntak,raditya25@example.net,0887-6253-4881,1990,Samsung,Sedang,Suburban,36,Millennial,Siang,50,Kurang Aktif,example.net
+Denpasar,10:26,R. Galuh Permadi,rmaheswara@example.com,0849-5508-1998,1984,Vivo,Tinggi,Tourism,42,Millennial,Pagi,75,Kurang Aktif,example.com
+Bandung,16:35,Caket Kuswoyo,siregarpranawa@example.net,0874-1768-6642,1997,Vivo,Sangat Tinggi,Urban,29,Gen Z,Sore,95,Kurang Aktif,example.net
+Denpasar,14:44,Hilda Manullang,kezia53@example.org,0864-7688-3444,1990,Samsung,Sedang,Tourism,36,Millennial,Siang,50,Kurang Aktif,example.org
+Denpasar,16:15,Oliva Hastuti,fsamosir@example.org,0839-5927-3365,2000,Realme,Tinggi,Tourism,26,Gen Z,Sore,75,Kurang Aktif,example.org
+Denpasar,15:26,Warsa Wijaya,npermadi@example.net,0882-9683-3196,1996,Xiaomi,Sedang,Tourism,30,Millennial,Siang,50,Kurang Aktif,example.net
+Medan,09:59,Alika Hardiansyah,alika97@example.com,0868-7079-2514,1975,Apple,Tinggi,Urban,51,Gen X,Pagi,75,Kurang Aktif,example.com
+Jakarta Selatan,10:24,Dt. Slamet Kurniawan,qmansur@example.net,0897-1647-2192,1987,Apple,Sedang,Urban,39,Millennial,Pagi,50,Kurang Aktif,example.net
+Denpasar,15:30,Vanesa Waskita,bakijan60@example.net,0837-6455-5967,1983,Samsung,Sangat Tinggi,Tourism,43,Millennial,Siang,95,Kurang Aktif,example.net
+Surabaya,15:47,Sutan Gilang Puspasari,cakrajiya68@example.com,0872-4974-4350,1977,Samsung,Sedang,Urban,49,Gen X,Siang,50,Kurang Aktif,example.com
+Medan,12:24,"Dr. Estiono Oktaviani, M.Ak",mahendradagel@example.com,0870-9743-6886,1988,Xiaomi,Sedang,Urban,38,Millennial,Siang,50,Aktif,example.com
+Semarang,13:06,Wulan Sirait,edward39@example.net,0871-6246-4328,1999,Xiaomi,Sedang,Urban,27,Gen Z,Siang,50,Aktif,example.net
+Palembang,18:47,Olivia Gunarto,firgantoroendra@example.net,0829-1265-5272,1984,Vivo,Tinggi,Suburban,42,Millennial,Sore,75,Kurang Aktif,example.net
+Makassar,10:09,Wani Kusmawati,mmaryadi@example.net,0836-6404-4768,1988,Realme,Sedang,Urban,38,Millennial,Pagi,50,Kurang Aktif,example.net
+Semarang,15:41,Gamanto Suryatmi,gamani69@example.net,0898-6530-5216,2005,OPPO,Tinggi,Urban,21,Gen Z,Siang,75,Kurang Aktif,example.net
+Semarang,12:10,"Tgk. Rika Sirait, M.TI.",tpratiwi@example.com,0856-3773-3293,1999,OPPO,Tinggi,Urban,27,Gen Z,Siang,75,Aktif,example.com
+Denpasar,12:33,"Cut Kartika Sitompul, S.IP",tpadmasari@example.net,0815-2217-1794,1973,Xiaomi,Tinggi,Tourism,53,Gen X,Siang,75,Aktif,example.net
+Surabaya,17:45,"Hj. Aisyah Riyanti, M.Kom.",talia99@example.org,0830-1149-4583,1974,Xiaomi,Tinggi,Urban,52,Gen X,Sore,75,Kurang Aktif,example.org
+Palembang,16:42,"Anastasia Padmasari, M.Kom.",eliusamah@example.net,0873-1257-1108,2000,Xiaomi,Tinggi,Suburban,26,Gen Z,Sore,75,Kurang Aktif,example.net
+Jakarta Selatan,16:46,drg. Dalima Zulaika,atmapertiwi@example.net,0846-9777-5697,2003,Apple,Rendah,Urban,23,Gen Z,Sore,25,Kurang Aktif,example.net
+Makassar,18:06,Dadap Budiyanto,asihotang@example.org,0823-9591-3439,1981,Vivo,Sedang,Urban,45,Millennial,Sore,50,Kurang Aktif,example.org
+Yogyakarta,13:17,Shakila Putra,xmardhiyah@example.net,0861-2294-7112,1992,OPPO,Sangat Tinggi,Tourism,34,Millennial,Siang,95,Aktif,example.net
+Surabaya,15:19,Zizi Halim,dalimapranowo@example.net,0898-2320-1519,1984,Xiaomi,Rendah,Urban,42,Millennial,Siang,25,Kurang Aktif,example.net
+Denpasar,11:03,Salimah Kuswandari,lsihotang@example.com,0892-1154-3807,2000,Realme,Rendah,Tourism,26,Gen Z,Siang,25,Aktif,example.com
+Medan,14:54,Tgk. Kenes Thamrin,oni73@example.org,0823-9653-1697,2006,Realme,Sedang,Urban,20,Gen Z,Siang,50,Kurang Aktif,example.org
+Palembang,12:17,Puti Salahudin,legawasuwarno@example.net,0816-2218-5593,2000,OPPO,Sangat Tinggi,Suburban,26,Gen Z,Siang,95,Aktif,example.net
+Jakarta Selatan,13:59,Muhammad Lestari,yosef58@example.net,0851-1256-4394,1981,Apple,Tinggi,Urban,45,Millennial,Siang,75,Aktif,example.net
+Makassar,15:19,Irma Maheswara,wwidodo@example.org,0831-4939-7375,1974,OPPO,Tinggi,Urban,52,Gen X,Siang,75,Kurang Aktif,example.org
+Makassar,09:50,Azalea Suwarno,situmorangtasdik@example.net,0899-2284-9204,1978,Xiaomi,Tinggi,Urban,48,Gen X,Pagi,75,Kurang Aktif,example.net
+Jakarta Pusat,21:14,Ulva Kuswandari,hadinasyiah@example.com,0820-6580-7499,1997,Xiaomi,Sangat Tinggi,Urban,29,Gen Z,Malam,95,Aktif,example.com
+Yogyakarta,08:31,H. Empluk Mandala,susantilidya@example.org,0840-6829-7150,1998,Vivo,Sedang,Tourism,28,Gen Z,Pagi,50,Kurang Aktif,example.org
+Makassar,08:49,Asirwanda Winarsih,sarahpradipta@example.org,0890-5839-5037,1975,Samsung,Tinggi,Urban,51,Gen X,Pagi,75,Kurang Aktif,example.org
+Bandung,17:45,Hendri Sitompul,rjanuar@example.org,0892-3527-7383,1994,Samsung,Sedang,Urban,32,Millennial,Sore,50,Kurang Aktif,example.org
+Jakarta Selatan,16:28,Yoga Pudjiastuti,rahmatyolanda@example.com,0857-5419-2674,1989,Samsung,Rendah,Urban,37,Millennial,Sore,25,Kurang Aktif,example.com
+Semarang,15:35,Sadina Pangestu,maras40@example.org,0876-7685-2692,2005,Xiaomi,Rendah,Urban,21,Gen Z,Siang,25,Kurang Aktif,example.org
+Jakarta Pusat,15:55,"Kemal Pradipta, M.Pd",natsirrafid@example.org,0860-1202-5781,1990,Apple,Sedang,Urban,36,Millennial,Siang,50,Kurang Aktif,example.org
+Denpasar,12:36,Raihan Widodo,vnashiruddin@example.com,0877-3778-7237,1985,Xiaomi,Sedang,Tourism,41,Millennial,Siang,50,Aktif,example.com
+Yogyakarta,09:09,Adika Salahudin,sitoruskairav@example.com,0819-3739-8121,2001,Xiaomi,Sedang,Tourism,25,Gen Z,Pagi,50,Kurang Aktif,example.com
+Jakarta Pusat,13:16,"Kenari Novitasari, M.Kom.",clarahastuti@example.com,0842-9123-4203,1993,Samsung,Sedang,Urban,33,Millennial,Siang,50,Aktif,example.com
+Jakarta Selatan,10:21,Rusman Kusumo,gamani74@example.net,0890-7224-6399,1995,Xiaomi,Sedang,Urban,31,Millennial,Pagi,50,Kurang Aktif,example.net
+Palembang,16:19,Aditya Sirait,jasmin32@example.net,0852-4290-8848,1978,Infinix,Sedang,Suburban,48,Gen X,Sore,50,Kurang Aktif,example.net
+Medan,12:47,"Hj. Latika Aryani, M.TI.",cawuk61@example.org,0899-9044-4971,1988,Xiaomi,Sedang,Urban,38,Millennial,Siang,50,Aktif,example.org
+Makassar,09:07,Jati Sinaga,adinatarajata@example.com,0883-4273-9939,1993,Apple,Sedang,Urban,33,Millennial,Pagi,50,Kurang Aktif,example.com
+Jakarta Selatan,11:45,Ivan Santoso,lukita99@example.org,0837-8183-5773,1999,Samsung,Tinggi,Urban,27,Gen Z,Siang,75,Aktif,example.org
+Makassar,14:08,Safina Tarihoran,bancarwidiastuti@example.org,0892-5961-4965,2001,Samsung,Sedang,Urban,25,Gen Z,Siang,50,Kurang Aktif,example.org
+Makassar,10:04,Ina Manullang,tmardhiyah@example.com,0868-8851-7566,1994,Infinix,Tinggi,Urban,32,Millennial,Pagi,75,Kurang Aktif,example.com
+Makassar,09:02,"Devi Uyainah, S.Pd",paris33@example.org,0857-9796-2392,2004,Xiaomi,Rendah,Urban,22,Gen Z,Pagi,25,Kurang Aktif,example.org
+Medan,13:41,Eva Hasanah,radika87@example.net,0889-1725-7547,1980,Xiaomi,Sangat Tinggi,Urban,46,Gen X,Siang,95,Aktif,example.net
+Makassar,13:00,"Ir. Rudi Pratama, S.H.",novitasaritugiman@example.net,0823-5239-4637,1976,OPPO,Tinggi,Urban,50,Gen X,Siang,75,Aktif,example.net
+Palembang,10:14,"Karen Hutagalung, M.Farm",halimhana@example.net,0868-7129-7408,2006,Vivo,Sedang,Suburban,20,Gen Z,Pagi,50,Kurang Aktif,example.net
+Denpasar,11:22,Kemal Nasyiah,gambirasimbolon@example.net,0814-8909-2712,1979,Infinix,Sedang,Tourism,47,Gen X,Siang,50,Aktif,example.net
+Jakarta Pusat,13:53,Calista Zulaika,latikalestari@example.org,0829-6707-6110,1977,Apple,Sedang,Urban,49,Gen X,Siang,50,Aktif,example.org
+Denpasar,07:22,drg. Rusman Hakim,gmustofa@example.com,0871-2599-8178,2000,OPPO,Tinggi,Tourism,26,Gen Z,Pagi,75,Kurang Aktif,example.com
+Jakarta Pusat,07:02,Padmi Hakim,zwulandari@example.com,0825-1370-6620,1989,Vivo,Tinggi,Urban,37,Millennial,Pagi,75,Kurang Aktif,example.com
+Bandung,10:33,"Ayu Widodo, S.T.",pratamakiandra@example.org,0833-3623-6422,1985,Infinix,Tinggi,Urban,41,Millennial,Pagi,75,Kurang Aktif,example.org
+Surabaya,12:40,Indra Situmorang,namagabanawa@example.org,0834-4053-8080,1995,Apple,Sedang,Urban,31,Millennial,Siang,50,Aktif,example.org
+Surabaya,14:37,Ami Suwarno,xnajmudin@example.org,0865-7370-1072,1998,Samsung,Tinggi,Urban,28,Gen Z,Siang,75,Kurang Aktif,example.org
+Jakarta Pusat,18:06,"Ir. Omar Yuliarti, S.Farm",prakosa76@example.com,0879-4063-6993,2006,OPPO,Sedang,Urban,20,Gen Z,Sore,50,Kurang Aktif,example.com
+Yogyakarta,16:33,Mahmud Wijayanti,silviatampubolon@example.org,0892-6134-7367,2001,Vivo,Tinggi,Tourism,25,Gen Z,Sore,75,Kurang Aktif,example.org
+Medan,12:54,Kawaya Wijaya,ivanadriansyah@example.org,0869-3826-5873,1992,Vivo,Sangat Tinggi,Urban,34,Millennial,Siang,95,Aktif,example.org
+Bandung,12:07,Malika Wulandari,ynasyidah@example.org,0841-6003-2916,1990,Vivo,Sedang,Urban,36,Millennial,Siang,50,Aktif,example.org
+Denpasar,08:26,Jagaraga Situmorang,kusumanainggolan@example.net,0887-3258-7286,1994,OPPO,Sedang,Tourism,32,Millennial,Pagi,50,Kurang Aktif,example.net
+Denpasar,12:35,"R. Anggabaya Wijayanti, S.Farm",permadihendri@example.org,0832-9022-5732,1981,Xiaomi,Rendah,Tourism,45,Millennial,Siang,25,Aktif,example.org
+Semarang,11:55,Legawa Firmansyah,rrahimah@example.net,0856-1157-8939,1973,Apple,Rendah,Urban,53,Gen X,Siang,25,Aktif,example.net
+Denpasar,14:41,"Cut Hesti Gunawan, S.Sos",ipradipta@example.org,0874-7703-9056,2002,Realme,Sedang,Tourism,24,Gen Z,Siang,50,Kurang Aktif,example.org
+Semarang,09:05,"KH. Asman Mandala, M.TI.",jarwa95@example.net,0883-1505-4613,1980,Xiaomi,Sedang,Urban,46,Gen X,Pagi,50,Kurang Aktif,example.net
+Denpasar,15:10,Hj. Yuliana Sinaga,lukitamegantara@example.net,0869-9115-9369,1988,Samsung,Rendah,Tourism,38,Millennial,Siang,25,Kurang Aktif,example.net
+Denpasar,19:34,Sutan Hendri Salahudin,banawi89@example.net,0816-8231-9951,1993,Xiaomi,Sedang,Tourism,33,Millennial,Sore,50,Aktif,example.net
+Surabaya,12:55,Luis Wastuti,fpuspita@example.org,0815-8368-5305,1989,Apple,Sedang,Urban,37,Millennial,Siang,50,Aktif,example.org
+Semarang,14:49,Syahrini Winarsih,unovitasari@example.net,0841-4438-6744,1977,Vivo,Sangat Tinggi,Urban,49,Gen X,Siang,95,Kurang Aktif,example.net
+Makassar,15:39,Laila Maryadi,parman28@example.com,0828-4385-4390,1980,OPPO,Tinggi,Urban,46,Gen X,Siang,75,Kurang Aktif,example.com
+Denpasar,11:38,Samsul Prasetyo,edward70@example.net,0879-3758-6302,1987,Xiaomi,Sangat Tinggi,Tourism,39,Millennial,Siang,95,Aktif,example.net
+Palembang,13:54,Lidya Puspita,prayogaprasasta@example.com,0876-2560-3221,1987,Apple,Sangat Tinggi,Suburban,39,Millennial,Siang,95,Aktif,example.com
+Jakarta Selatan,13:55,Gamblang Yuliarti,hartatiopung@example.org,0894-3078-3174,1987,Apple,Sedang,Urban,39,Millennial,Siang,50,Aktif,example.org
+Surabaya,13:31,H. Radit Nainggolan,santosoperkasa@example.net,0829-5402-7786,1995,Samsung,Sedang,Urban,31,Millennial,Siang,50,Aktif,example.net
+Jakarta Pusat,09:32,Ir. Azalea Hidayanto,liliwinarsih@example.net,0846-7046-8449,1995,Xiaomi,Sangat Tinggi,Urban,31,Millennial,Pagi,95,Kurang Aktif,example.net
+Jakarta Selatan,13:46,Jatmiko Pranowo,luluh03@example.org,0869-6869-2037,1975,Xiaomi,Tinggi,Urban,51,Gen X,Siang,75,Aktif,example.org
+Makassar,14:31,"Devi Kuswandari, S.H.",putupermadi@example.net,0845-6289-5646,1983,OPPO,Sedang,Urban,43,Millennial,Siang,50,Kurang Aktif,example.net
+Palembang,18:50,Vicky Suryono,ihastuti@example.net,0854-1793-1752,2001,Apple,Rendah,Suburban,25,Gen Z,Sore,25,Kurang Aktif,example.net
+Semarang,16:07,Ina Rajata,dewi77@example.org,0831-8230-8479,1971,Infinix,Rendah,Urban,55,Gen X,Sore,25,Kurang Aktif,example.org
+Surabaya,21:56,"H. Jarwadi Simanjuntak, S.Kom",luis60@example.net,0894-5945-3604,1978,Realme,Sangat Tinggi,Urban,48,Gen X,Malam,95,Aktif,example.net
+Jakarta Pusat,09:16,"R.A. Ulya Maulana, S.Ked",intan99@example.net,0821-7092-3711,1993,Vivo,Rendah,Urban,33,Millennial,Pagi,25,Kurang Aktif,example.net
+Surabaya,16:41,Ida Mangunsong,maryantopradana@example.com,0822-2559-1017,1997,Samsung,Sedang,Urban,29,Gen Z,Sore,50,Kurang Aktif,example.com
+Palembang,13:33,R.A. Najwa Pudjiastuti,kamidin77@example.com,0898-8291-1152,1984,Xiaomi,Rendah,Suburban,42,Millennial,Siang,25,Aktif,example.com
+Jakarta Pusat,21:44,Oskar Thamrin,estionopalastri@example.com,0827-8826-2160,1997,Samsung,Sedang,Urban,29,Gen Z,Malam,50,Aktif,example.com
+Jakarta Pusat,09:20,Vero Namaga,novitasaribagas@example.org,0858-5902-3246,1976,Apple,Sedang,Urban,50,Gen X,Pagi,50,Kurang Aktif,example.org
+Bandung,09:04,"Hj. Alika Ardianto, S.Farm",rikapradipta@example.org,0878-1138-3688,1979,Apple,Sedang,Urban,47,Gen X,Pagi,50,Kurang Aktif,example.org
+Bandung,10:39,"Eka Anggriawan, S.Kom",dwahyudin@example.net,0898-8248-4559,1996,Samsung,Rendah,Urban,30,Millennial,Pagi,25,Kurang Aktif,example.net
+Jakarta Pusat,04:22,"Mulyanto Susanti, M.Kom.",abudiyanto@example.net,0865-6152-3290,1994,Vivo,Sedang,Urban,32,Millennial,Malam,50,Kurang Aktif,example.net
+Surabaya,10:38,dr. Adinata Budiyanto,gabriella40@example.net,0887-5668-1439,2005,Vivo,Tinggi,Urban,21,Gen Z,Pagi,75,Kurang Aktif,example.net
+Yogyakarta,09:33,"Hj. Mala Nugroho, S.IP",novitasariemin@example.org,0888-9348-4090,1983,Xiaomi,Tinggi,Tourism,43,Millennial,Pagi,75,Kurang Aktif,example.org
+Jakarta Selatan,13:31,Lukman Novitasari,nugraha46@example.org,0860-2847-4949,1985,Vivo,Sedang,Urban,41,Millennial,Siang,50,Aktif,example.org
+Denpasar,14:23,Latika Haryanti,zamiraprasetyo@example.com,0851-3162-7337,1970,OPPO,Sangat Tinggi,Tourism,56,Gen X,Siang,95,Kurang Aktif,example.com
+Medan,20:43,"Raden Hutapea, S.Gz",waskitaprabu@example.com,0833-8717-2195,2004,Samsung,Rendah,Urban,22,Gen Z,Malam,25,Aktif,example.com
+Yogyakarta,16:02,drg. Asman Uyainah,narpaticatur@example.com,0818-7520-9300,1983,Apple,Sedang,Tourism,43,Millennial,Sore,50,Kurang Aktif,example.com
+Makassar,10:44,"drg. Septi Sitompul, M.Farm",nurainibakiadi@example.org,0862-2350-9791,1997,Samsung,Tinggi,Urban,29,Gen Z,Pagi,75,Kurang Aktif,example.org
+Jakarta Pusat,09:05,Umay Purnawati,csaputra@example.org,0876-4329-3545,1989,Xiaomi,Tinggi,Urban,37,Millennial,Pagi,75,Kurang Aktif,example.org
+Jakarta Pusat,14:44,"Wahyu Setiawan, M.Pd",nugroholasmono@example.org,0866-4909-1948,1989,Infinix,Sedang,Urban,37,Millennial,Siang,50,Kurang Aktif,example.org
+Jakarta Pusat,07:39,Langgeng Megantara,thutagalung@example.org,0888-1901-6067,1999,Vivo,Tinggi,Urban,27,Gen Z,Pagi,75,Kurang Aktif,example.org
+Bandung,20:00,R.A. Qori Wibisono,pranawa21@example.net,0828-1185-3684,1977,Xiaomi,Sedang,Urban,49,Gen X,Malam,50,Aktif,example.net
+Denpasar,17:10,"Jelita Habibi, S.IP",epradipta@example.com,0858-3079-5403,1986,Samsung,Tinggi,Tourism,40,Millennial,Sore,75,Kurang Aktif,example.com
+Jakarta Selatan,11:51,Ir. Rina Widodo,asmuni47@example.com,0865-5456-9582,1991,Apple,Rendah,Urban,35,Millennial,Siang,25,Aktif,example.com
+Palembang,06:31,Garda Puspasari,lastuti@example.net,0869-9368-6900,1974,Realme,Rendah,Suburban,52,Gen X,Pagi,25,Kurang Aktif,example.net
+Bandung,18:10,Hj. Kezia Hutasoit,jumadi11@example.com,0843-2685-2889,1993,OPPO,Sedang,Urban,33,Millennial,Sore,50,Kurang Aktif,example.com
+Jakarta Selatan,12:15,Harjasa Usada,prayogosimanjuntak@example.com,0816-8729-6963,1970,Samsung,Sedang,Urban,56,Gen X,Siang,50,Aktif,example.com
+Jakarta Selatan,17:51,Bakijan Ardianto,tirtayasa54@example.org,0894-7870-4678,2005,Xiaomi,Sedang,Urban,21,Gen Z,Sore,50,Kurang Aktif,example.org
+Medan,06:52,Bakianto Nashiruddin,jhassanah@example.net,0820-7108-2956,1987,Realme,Tinggi,Urban,39,Millennial,Pagi,75,Kurang Aktif,example.net
+Bandung,10:51,dr. Baktiono Dongoran,thamrinirma@example.org,0877-1752-7568,1984,OPPO,Rendah,Urban,42,Millennial,Pagi,25,Kurang Aktif,example.org
+Yogyakarta,13:20,Ir. Violet Simbolon,sbudiman@example.com,0822-8483-1130,1989,Xiaomi,Sedang,Tourism,37,Millennial,Siang,50,Aktif,example.com
+Yogyakarta,13:29,Victoria Hutasoit,kaninurdiyanti@example.org,0858-9083-4201,1985,OPPO,Tinggi,Tourism,41,Millennial,Siang,75,Aktif,example.org
+Surabaya,11:00,"Harjasa Narpati, S.E.I",luhung47@example.org,0863-1391-4817,1979,Vivo,Tinggi,Urban,47,Gen X,Siang,75,Aktif,example.org
+Jakarta Selatan,15:00,Caturangga Fujiati,saiful47@example.org,0895-7164-6038,1991,OPPO,Rendah,Urban,35,Millennial,Siang,25,Kurang Aktif,example.org
+Surabaya,08:31,Hafshah Prayoga,nriyanti@example.org,0818-3332-5584,1996,Infinix,Rendah,Urban,30,Millennial,Pagi,25,Kurang Aktif,example.org
+Denpasar,12:44,Cici Mansur,adinata65@example.net,0858-8511-2391,1996,OPPO,Tinggi,Tourism,30,Millennial,Siang,75,Aktif,example.net
+Makassar,13:37,Wani Sitompul,bsitorus@example.net,0883-2020-8126,1974,Samsung,Tinggi,Urban,52,Gen X,Siang,75,Aktif,example.net
+Yogyakarta,15:54,R. Ifa Sinaga,yusufsihotang@example.org,0851-7438-6345,1986,Xiaomi,Sedang,Tourism,40,Millennial,Siang,50,Kurang Aktif,example.org
+Jakarta Pusat,15:08,Jamalia Siregar,ypermata@example.org,0885-2785-3546,1982,OPPO,Rendah,Urban,44,Millennial,Siang,25,Kurang Aktif,example.org
+Medan,08:07,Keisha Setiawan,hutama@example.net,0879-6870-4401,1996,OPPO,Sedang,Urban,30,Millennial,Pagi,50,Kurang Aktif,example.net
+Jakarta Pusat,06:10,Lega Palastri,wirdapudjiastuti@example.org,0898-5984-1660,1975,Realme,Sedang,Urban,51,Gen X,Pagi,50,Kurang Aktif,example.org
+Bandung,18:45,"Malika Pranowo, M.M.",zaenab16@example.net,0842-6828-7492,1975,Vivo,Tinggi,Urban,51,Gen X,Sore,75,Kurang Aktif,example.net
+Yogyakarta,14:01,Dina Usada,jayadi42@example.net,0862-8408-5093,1981,Samsung,Rendah,Tourism,45,Millennial,Siang,25,Kurang Aktif,example.net
+Bandung,10:00,Widya Waluyo,hassanahmalika@example.com,0818-4641-3141,1977,Xiaomi,Sedang,Urban,49,Gen X,Pagi,50,Kurang Aktif,example.com
+Jakarta Pusat,19:58,drg. Patricia Mayasari,cpalastri@example.com,0820-1357-2056,1986,Vivo,Sedang,Urban,40,Millennial,Sore,50,Aktif,example.com
+Bandung,13:57,"Yessi Nasyiah, M.Ak",kurniawanjamal@example.net,0853-3007-1699,1975,Samsung,Sangat Tinggi,Urban,51,Gen X,Siang,95,Aktif,example.net
+Palembang,17:52,"Garang Marbun, M.Ak",pratiwisadina@example.net,0861-9128-1483,1997,Xiaomi,Sedang,Suburban,29,Gen Z,Sore,50,Kurang Aktif,example.net
+Medan,13:58,"Heru Sitompul, S.Farm",anggriawandaliman@example.com,0834-5505-5585,1983,Samsung,Sedang,Urban,43,Millennial,Siang,50,Aktif,example.com
+Palembang,21:41,Kajen Maryati,triwahyudin@example.com,0848-9173-7750,1985,OPPO,Sangat Tinggi,Suburban,41,Millennial,Malam,95,Aktif,example.com
+Jakarta Pusat,20:24,Vera Wastuti,muhammaddongoran@example.com,0828-7868-4267,1987,Apple,Tinggi,Urban,39,Millennial,Malam,75,Aktif,example.com
+Surabaya,12:50,Ega Agustina,latuponoedi@example.com,0813-7266-6883,2004,Apple,Sedang,Urban,22,Gen Z,Siang,50,Aktif,example.com
+Medan,16:32,Jasmin Hasanah,evalaksmiwati@example.com,0852-7363-5430,2006,Xiaomi,Sedang,Urban,20,Gen Z,Sore,50,Kurang Aktif,example.com
+Surabaya,15:57,Cinta Farida,esimanjuntak@example.com,0846-1959-8728,1971,Apple,Tinggi,Urban,55,Gen X,Siang,75,Kurang Aktif,example.com
+Surabaya,18:06,Rusman Latupono,siregarsalimah@example.org,0842-4951-5366,1980,Apple,Tinggi,Urban,46,Gen X,Sore,75,Kurang Aktif,example.org
+Jakarta Selatan,09:36,"Raharja Marbun, S.H.",indahmanullang@example.com,0860-6813-3846,1984,Vivo,Sedang,Urban,42,Millennial,Pagi,50,Kurang Aktif,example.com
+Medan,15:45,dr. Yusuf Hariyah,rusmanusamah@example.org,0856-3328-4084,1971,Apple,Tinggi,Urban,55,Gen X,Siang,75,Kurang Aktif,example.org
+Semarang,17:19,Manah Wahyuni,bwidodo@example.net,0833-9035-1621,2004,Samsung,Rendah,Urban,22,Gen Z,Sore,25,Kurang Aktif,example.net
+Surabaya,05:33,R.A. Mila Rahayu,awibisono@example.net,0872-1011-6435,1971,Samsung,Sangat Tinggi,Urban,55,Gen X,Pagi,95,Kurang Aktif,example.net
+Bandung,08:45,Danang Setiawan,permatadamu@example.net,0833-6301-1975,1991,Vivo,Rendah,Urban,35,Millennial,Pagi,25,Kurang Aktif,example.net
+Bandung,04:54,Ghani Simbolon,vinsenlatupono@example.com,0878-6978-2188,1977,Infinix,Sedang,Urban,49,Gen X,Malam,50,Kurang Aktif,example.com
+Makassar,11:21,"Setya Lestari, M.TI.",michelle69@example.com,0849-6285-3235,1976,Apple,Sangat Tinggi,Urban,50,Gen X,Siang,95,Aktif,example.com
+Makassar,15:41,Puti Kamaria Thamrin,lsafitri@example.net,0851-3854-6846,2001,Vivo,Sedang,Urban,25,Gen Z,Siang,50,Kurang Aktif,example.net
+Bandung,19:19,"Wirda Salahudin, M.Ak",wulandariembuh@example.com,0899-5825-3086,1994,Samsung,Sedang,Urban,32,Millennial,Sore,50,Aktif,example.com
+Palembang,13:54,Digdaya Samosir,najmudinpangeran@example.net,0883-1530-3983,1995,Infinix,Tinggi,Suburban,31,Millennial,Siang,75,Aktif,example.net
+Palembang,19:40,Kajen Wibisono,iriyanti@example.net,0883-2705-9129,1984,Apple,Rendah,Suburban,42,Millennial,Sore,25,Aktif,example.net
+Surabaya,07:20,Lintang Nashiruddin,iusada@example.net,0832-2453-6500,1992,Xiaomi,Sedang,Urban,34,Millennial,Pagi,50,Kurang Aktif,example.net
+Surabaya,06:22,"Wadi Natsir, M.Pd",anasuwarno@example.org,0843-2770-1020,1974,Xiaomi,Rendah,Urban,52,Gen X,Pagi,25,Kurang Aktif,example.org
+Makassar,12:56,Galih Hartati,tambaajiman@example.com,0863-9078-7204,1980,Xiaomi,Sedang,Urban,46,Gen X,Siang,50,Aktif,example.com
+Semarang,14:41,Dagel Winarno,rwasita@example.com,0898-4695-3664,2006,Apple,Sedang,Urban,20,Gen Z,Siang,50,Kurang Aktif,example.com
+Jakarta Selatan,12:01,Titin Handayani,fmarbun@example.net,0851-5278-2715,1988,Samsung,Rendah,Urban,38,Millennial,Siang,25,Aktif,example.net
+Makassar,04:46,Raden Prasetya,atmaja43@example.net,0820-9962-2525,1980,Huawei,Sedang,Urban,46,Gen X,Malam,50,Kurang Aktif,example.net
+Semarang,12:27,Ella Haryanti,gpudjiastuti@example.org,0894-3703-8113,1971,Samsung,Sedang,Urban,55,Gen X,Siang,50,Aktif,example.org
+Surabaya,07:26,Puti Hasna Palastri,halima07@example.net,0881-9849-5346,1982,Xiaomi,Tinggi,Urban,44,Millennial,Pagi,75,Kurang Aktif,example.net
+Jakarta Pusat,15:25,Irwan Jailani,legawafirmansyah@example.com,0884-9043-3516,1973,Samsung,Rendah,Urban,53,Gen X,Siang,25,Kurang Aktif,example.com
+Jakarta Pusat,14:52,Kamaria Irawan,xlazuardi@example.org,0895-8869-4271,1988,Samsung,Rendah,Urban,38,Millennial,Siang,25,Kurang Aktif,example.org
+Yogyakarta,09:30,Rosman Rahmawati,oni62@example.net,0825-6052-7512,1975,Realme,Sedang,Tourism,51,Gen X,Pagi,50,Kurang Aktif,example.net
+Yogyakarta,10:41,Purwanto Putra,banarapurnawati@example.com,0880-7349-4029,1975,Xiaomi,Sedang,Tourism,51,Gen X,Pagi,50,Kurang Aktif,example.com
+Bandung,08:02,T. Lembah Nasyiah,marsudisiregar@example.com,0844-8204-8619,1998,Realme,Sedang,Urban,28,Gen Z,Pagi,50,Kurang Aktif,example.com
+Palembang,12:09,Tgk. Zamira Mulyani,mansurridwan@example.org,0896-2584-2404,1973,Apple,Tinggi,Suburban,53,Gen X,Siang,75,Aktif,example.org
+Makassar,16:35,Zelaya Yolanda,emanprayoga@example.org,0818-7342-9561,1984,OPPO,Sedang,Urban,42,Millennial,Sore,50,Kurang Aktif,example.org
+Semarang,09:56,"Janet Prayoga, S.Sos",kmegantara@example.net,0841-8803-5896,2006,Realme,Rendah,Urban,20,Gen Z,Pagi,25,Kurang Aktif,example.net
+Jakarta Selatan,15:36,Sari Agustina,ehartati@example.net,0877-3415-2970,2002,OPPO,Sangat Tinggi,Urban,24,Gen Z,Siang,95,Kurang Aktif,example.net
+Bandung,10:51,"KH. Bakiman Waskita, M.TI.",zizi57@example.com,0835-3067-1699,1983,Huawei,Sedang,Urban,43,Millennial,Pagi,50,Kurang Aktif,example.com
+Makassar,09:52,Ratna Adriansyah,haryantirahmi@example.net,0891-3422-5225,1982,Apple,Sedang,Urban,44,Millennial,Pagi,50,Kurang Aktif,example.net
+Jakarta Pusat,12:24,"Kani Haryanto, M.Pd",bpratama@example.org,0882-7510-6343,1975,OPPO,Sangat Tinggi,Urban,51,Gen X,Siang,95,Aktif,example.org
+Jakarta Selatan,08:50,Hasna Sinaga,mursita89@example.org,0864-2843-7790,2003,OPPO,Rendah,Urban,23,Gen Z,Pagi,25,Kurang Aktif,example.org
+Palembang,10:59,Dr. Winda Siregar,gunawandalimin@example.net,0824-2654-5687,1976,Realme,Sangat Tinggi,Suburban,50,Gen X,Pagi,95,Kurang Aktif,example.net
+Makassar,08:24,"drg. Agus Maheswara, S.E.",ahasanah@example.com,0894-8955-8750,1986,Xiaomi,Rendah,Urban,40,Millennial,Pagi,25,Kurang Aktif,example.com
+Bandung,20:02,Malik Mustofa,galiono41@example.net,0861-6431-4892,1995,OPPO,Rendah,Urban,31,Millennial,Malam,25,Aktif,example.net
+Yogyakarta,13:01,Hafshah Hutasoit,titi20@example.com,0854-5965-6094,1993,OPPO,Sedang,Tourism,33,Millennial,Siang,50,Aktif,example.com
+Jakarta Pusat,10:08,"Gaduh Pradipta, S.Farm",kuswoyoade@example.org,0849-8259-6257,1984,Xiaomi,Sedang,Urban,42,Millennial,Pagi,50,Kurang Aktif,example.org
+Jakarta Pusat,13:28,Citra Mustofa,dalimazulaika@example.com,0838-7671-8937,1982,Realme,Tinggi,Urban,44,Millennial,Siang,75,Aktif,example.com
+Jakarta Selatan,12:50,Adika Siregar,anggrainizulfa@example.org,0831-2075-6097,2002,Xiaomi,Tinggi,Urban,24,Gen Z,Siang,75,Aktif,example.org
+Denpasar,12:01,Belinda Pradana,uirawan@example.org,0833-4158-4288,2006,Xiaomi,Tinggi,Tourism,20,Gen Z,Siang,75,Aktif,example.org
+Semarang,15:58,Galar Uwais,endra62@example.net,0857-4262-5488,1973,OPPO,Sedang,Urban,53,Gen X,Siang,50,Kurang Aktif,example.net
+Makassar,16:43,"Cakrabirawa Hidayat, M.TI.",suryatmisalsabila@example.org,0814-4963-7102,1977,OPPO,Sedang,Urban,49,Gen X,Sore,50,Kurang Aktif,example.org
+Semarang,10:22,Kamaria Prabowo,ridwansusanti@example.net,0855-3679-5237,2005,Vivo,Tinggi,Urban,21,Gen Z,Pagi,75,Kurang Aktif,example.net
+Yogyakarta,10:24,Zelda Pratama,januarestiono@example.org,0817-3669-4511,1971,Vivo,Sangat Tinggi,Tourism,55,Gen X,Pagi,95,Kurang Aktif,example.org
+Surabaya,11:41,drg. Kamaria Aryani,estiono34@example.net,0863-9409-1328,1987,Infinix,Sangat Tinggi,Urban,39,Millennial,Siang,95,Aktif,example.net
+Jakarta Selatan,03:58,Drajat Puspasari,zahra04@example.org,0827-3837-1138,2000,Vivo,Sedang,Urban,26,Gen Z,Malam,50,Kurang Aktif,example.org
+Yogyakarta,06:27,Drs. Kacung Nainggolan,psihombing@example.org,0859-6713-8520,1987,OPPO,Sedang,Tourism,39,Millennial,Pagi,50,Kurang Aktif,example.org
+Denpasar,18:37,"KH. Xanana Permadi, M.Kom.",pkusumo@example.com,0824-1120-9380,1995,Infinix,Sangat Tinggi,Tourism,31,Millennial,Sore,95,Kurang Aktif,example.com
+Medan,19:41,"Legawa Hidayanto, M.TI.",tarihoranmahesa@example.org,0887-5631-5890,2005,OPPO,Tinggi,Urban,21,Gen Z,Sore,75,Aktif,example.org
+Medan,12:40,Zelda Purnawati,iutama@example.net,0852-5536-5278,1987,Infinix,Tinggi,Urban,39,Millennial,Siang,75,Aktif,example.net
+Yogyakarta,15:09,Prabowo Halimah,budiyantolili@example.org,0877-4937-1930,1982,Apple,Tinggi,Tourism,44,Millennial,Siang,75,Kurang Aktif,example.org
+Palembang,14:42,Eluh Pratama,halimraden@example.net,0851-3292-1417,1995,Huawei,Tinggi,Suburban,31,Millennial,Siang,75,Kurang Aktif,example.net
+Yogyakarta,23:25,Sari Mardhiyah,sanggraini@example.com,0860-1578-4111,1996,Apple,Sedang,Tourism,30,Millennial,Malam,50,Kurang Aktif,example.com
+Denpasar,17:58,Manah Nasyiah,kalahutasoit@example.com,0896-6873-9311,2000,Samsung,Sedang,Tourism,26,Gen Z,Sore,50,Kurang Aktif,example.com
+Denpasar,12:18,Kajen Putra,gastisimbolon@example.com,0823-8713-3096,1981,Apple,Tinggi,Tourism,45,Millennial,Siang,75,Aktif,example.com
+Denpasar,09:43,Hj. Vanesa Yulianti,saragihzelaya@example.com,0853-2463-4641,1981,Apple,Sedang,Tourism,45,Millennial,Pagi,50,Kurang Aktif,example.com
+Yogyakarta,06:50,"Zulfa Permadi, S.Gz",cawukfujiati@example.org,0853-7089-5269,1996,OPPO,Tinggi,Tourism,30,Millennial,Pagi,75,Kurang Aktif,example.org
+Jakarta Pusat,13:03,Rahmi Sudiati,saragihunjani@example.net,0892-2166-8736,2000,OPPO,Sangat Tinggi,Urban,26,Gen Z,Siang,95,Aktif,example.net
+Makassar,09:19,"Opung Natsir, S.IP",mandalaajimin@example.org,0863-1885-3470,2003,Samsung,Rendah,Urban,23,Gen Z,Pagi,25,Kurang Aktif,example.org
+Makassar,07:57,Jelita Nurdiyanti,ganda52@example.net,0869-3346-6183,2006,Samsung,Sangat Tinggi,Urban,20,Gen Z,Pagi,95,Kurang Aktif,example.net
+Jakarta Pusat,10:21,"T. Oskar Lazuardi, S.Ked",sidiq48@example.org,0891-3897-6134,2001,Samsung,Tinggi,Urban,25,Gen Z,Pagi,75,Kurang Aktif,example.org
+Yogyakarta,08:48,Tania Permata,mandasariviktor@example.net,0832-3595-9021,1983,Apple,Tinggi,Tourism,43,Millennial,Pagi,75,Kurang Aktif,example.net
+Bandung,19:40,Amelia Mandasari,omanmanullang@example.com,0865-7609-8029,1997,Xiaomi,Sangat Tinggi,Urban,29,Gen Z,Sore,95,Aktif,example.com
+Jakarta Selatan,16:12,"R. Tugiman Pertiwi, S.IP",ciciadriansyah@example.org,0858-1230-6279,2004,OPPO,Tinggi,Urban,22,Gen Z,Sore,75,Kurang Aktif,example.org
+Jakarta Selatan,12:40,"Cut Hesti Gunawan, M.Kom.",pranata22@example.org,0842-4707-6641,1970,Samsung,Sedang,Urban,56,Gen X,Siang,50,Aktif,example.org
+Denpasar,18:10,KH. Vino Yolanda,uprasetyo@example.org,0819-1749-5885,1989,OPPO,Sangat Tinggi,Tourism,37,Millennial,Sore,95,Kurang Aktif,example.org
+Denpasar,13:21,Tantri Simanjuntak,chandra95@example.org,0866-3192-6615,2003,OPPO,Sangat Tinggi,Tourism,23,Gen Z,Siang,95,Aktif,example.org
+Surabaya,09:58,Ir. Umay Habibi,ivanmaryati@example.org,0862-1313-4742,1980,Huawei,Sedang,Urban,46,Gen X,Pagi,50,Kurang Aktif,example.org
+Surabaya,19:37,Betania Hastuti,luthfi51@example.net,0875-3768-3017,1971,Vivo,Sedang,Urban,55,Gen X,Sore,50,Aktif,example.net
+Jakarta Selatan,15:56,Ajeng Uwais,lamarpratiwi@example.com,0892-5190-9761,1994,Vivo,Tinggi,Urban,32,Millennial,Siang,75,Kurang Aktif,example.com
+Jakarta Selatan,08:41,"Sarah Prasasta, M.M.",maya73@example.net,0813-1790-2897,1976,Xiaomi,Sedang,Urban,50,Gen X,Pagi,50,Kurang Aktif,example.net
+Denpasar,12:30,KH. Raden Prasasta,adinatawasita@example.org,0830-4366-1152,1986,Vivo,Sedang,Tourism,40,Millennial,Siang,50,Aktif,example.org
+Denpasar,09:39,Kemba Situmorang,sitorusade@example.net,0888-3247-7862,1987,Samsung,Tinggi,Tourism,39,Millennial,Pagi,75,Kurang Aktif,example.net
+Palembang,07:18,Zizi Samosir,putrafitriani@example.org,0825-2741-9154,1977,Samsung,Sedang,Suburban,49,Gen X,Pagi,50,Kurang Aktif,example.org
